@@ -238,72 +238,90 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh; /* Ensure body takes full viewport height */
+    padding-bottom: 180px; /* Add padding to body to prevent content from being hidden by fixed sidebar */
 }
 
 .main-wrapper {
     display: flex;
     flex: 1; /* Allow main-wrapper to grow and take available space */
     max-width: 1200px; /* Adjust as needed */
-    margin: 20px auto;
+    margin: 20px auto; /* Center the main content */
     padding: 0 20px;
     width: 100%;
 }
 
 .main-content {
-    flex: 3; /* Main content takes more space */
-    margin-right: 20px; /* Space between main content and sidebar */
+    flex: 1; /* Main content takes all available space */
+    margin-right: 0; /* No margin on the right */
 }
 
 #random-content-sidebar {
-    flex: 1; /* Sidebar takes less space */
-    background-color: #1a1a1a;
-    border: 1px solid #333;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 0 15px rgba(178, 34, 34, 0.2);
-    position: sticky; /* Makes the sidebar stick as you scroll */
-    top: 20px; /* Distance from the top of the viewport */
-    align-self: flex-start; /* Aligns sidebar to the start of the flex container */
-    max-height: calc(100vh - 40px); /* Limit height to viewport height minus top/bottom margin */
-    overflow-y: auto; /* Add scroll if content overflows */
+    position: fixed; /* Fixed position at the bottom */
+    bottom: 0; /* Place at the bottom of the viewport */
+    left: 0; /* Align to the left edge */
+    width: 100%; /* Take full width */
+    height: 160px; /* Fixed height for the strip */
+    background-color: #1a1a1a; /* Dark background for the strip */
+    border-top: 1px solid #333; /* Top border */
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.5); /* Shadow above the strip */
+    z-index: 1000; /* Ensure it's above other content */
+    display: flex; /* Use flexbox for horizontal arrangement of cards */
+    justify-content: space-evenly; /* Distribute items evenly with space around them */
+    align-items: center; /* Center items vertically */
+    padding: 10px 20px; /* Padding inside the strip */
+    overflow-x: auto; /* Allow horizontal scrolling if content overflows */
+    overflow-y: hidden; /* Hide vertical overflow */
 }
 
 .sidebar-card {
     background-color: #0a0a0a;
     border: 1px solid #B22222;
     border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 15px;
+    padding: 10px;
+    margin: 0 10px; /* Space between cards */
     box-shadow: 0 0 10px rgba(178, 34, 34, 0.3);
+    flex-shrink: 0; /* Prevent cards from shrinking */
+    width: 30%; /* Adjust width of each card */
+    max-width: 300px; /* Max width for individual cards */
+    height: 100%; /* Take full height of the strip */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
 
 .sidebar-card h3 {
     font-family: 'Cinzel', serif;
     color: #B22222;
     margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 1.3em;
+    margin-bottom: 5px;
+    font-size: 1.1em;
 }
 
 .sidebar-card p {
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: #c0c0c0;
     margin-bottom: 5px;
+    flex-grow: 1; /* Allow paragraph to grow and take space */
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .sidebar-card .author {
     font-style: italic;
     text-align: right;
     color: #aaa;
+    font-size: 0.7em;
 }
 
 .sidebar-card pre {
     background-color: #000;
     border: 1px solid #444;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 5px;
+    border-radius: 3px;
     overflow-x: auto;
-    font-size: 0.8em;
+    font-size: 0.7em;
+    white-space: pre-wrap; /* Allow text to wrap */
 }
 
 /* Responsive adjustments for sidebar */
@@ -318,8 +336,54 @@ body {
     }
 
     #random-content-sidebar {
-        position: static; /* Remove sticky positioning when stacked */
-        max-height: none; /* Remove max height constraint */
-        width: 100%;
+        position: static; /* Remove fixed positioning when stacked */
+        height: auto; /* Auto height when stacked */
+        flex-direction: column; /* Stack cards vertically */
+        padding: 20px; /* Adjust padding */
+    }
+
+    .sidebar-card {
+        width: 90%; /* Full width for cards when stacked */
+        margin: 10px auto; /* Center cards */
+    }
+
+    body {
+        padding-bottom: 0; /* Remove body padding when sidebar is static */
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    h2 {
+        font-size: 1.8em;
+    }
+
+    .hero {
+        padding: 80px 20px;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    .hero .subtitle {
+        font-size: 1.2em;
+    }
+
+    .section-card {
+        padding: 20px;
     }
 }
