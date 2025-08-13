@@ -1,0 +1,1033 @@
+onzalo Bravo
+ Raúl González Salinero
+ (editores)
+ IDEOLOGÍA Y RELIGIÓN
+ EN EL MUNDO ROMANO
+ Madrid – Salamanca 2017
+ Signifer Libros
+SIGNIFER LIBROS
+ Monografías de Antigüedad Griega y Romana
+ 51
+ SIGNIFER
+ Libros
+ EN PORTADA:
+ Apoteosis de Claudio. Camafeo a tribuido a Skylax. Ónice, diamante y oro esmaltado.
+ Montura de Josias Belle (1686). Colección de Luis XIV (camafeo nº 265).
+ Cabinet des Médailles et Antiques de la Bibliothèque Nationale de France.
+ ACTAS DEL XIV COLOQUIO DE LA ASOCIACIÓN INTERDISCIPLINAR 
+DE ESTUDIOS ROMANOS (AIER), CELEBRADO EN LA UNIVERSIDAD 
+COMPLUTENSE DE MADRID LOS DÍAS 23-25 DE NOVIEMBRE DE 2016
+ El contenido de este libro no puede ser reproducido ni plagiado, en todo o en parte, conforme a lo 
+dispuesto en el art. 534-bis del Código Penal vigente, ni ser transmitido con ines fraudulentos o de 
+lucro por ningún medio.
+ © De la presente edición: Signifer Libros 2017
+ http://signiferlibros.com
+ Gran Vía, 2-2º A. SALAMANCA 37001
+ Apto. 52005  MADRID 28080
+ ISBN-13: 978-84-16202-15-7
+ ISBN-10: 84-16202-15-X
+ D.L.: S.XXX-2017
+ Imprime: Eucarprint S.L. - Peñaranda de Bracamonte, SALAMANCA
+«Dios manifestado en la tierra, salvador del género 
+humano y del universo entero». Encomios de 
+Augusto en Priene, Halikarnassos y Myra
+ Sabino Perea Yébenes
+ Universidad de Murcia
+ El fenómeno del culto imperial en Roma tiene origen en la igura de Julio César. Este 
+recibió honores divinos en Grecia, Asia e Italia, como certiican un buen número de 
+inscripciones1, y esta divinización quedó reforzada tras su asesinato. Su sucesor, Octavio, 
+inmediatamente pone el énfasis, en su discurso político-religioso, en su iliación divina 
+con la fórmula oicial Caesar Divi ilius2.
+ Acabado el periodo revolucionario, tras Actium, y asumidos todos los poderes ya 
+como Augusto en enero del año 27, la idea queda deinitivamente consolidada.
+ Durante la larga vida de Augusto este recibió honores divinos, como bien sabemos 
+por los textos literarios y especialmente por la epigrafía. La frecuencia de textos en 
+Occidente, en latín, es grande ―se concentran sobre todo en Italia, y en menor medida 
+en Galia, Hispania y África3― pero la cifra se multiplica casi por diez en las inscripcio
+nes griegas de las ciudades del oriente romano, donde este fenómeno político-religioso 
+se expresa sin tapujos. A nivel oicial, las ciudades de Asia Menor honran a Augusto 
+como Dios Augusto, Θεὸς Σεβαστὸς. Expresiones de este tipo seguramente le parecerían 
+excesivas al propio emperador, pero este respetaba la voluntad y la costumbre secular de 
+las ciudades griegas que en época helenística habían reconocido públicamente la divinidad 
+de sus reyes. Augusto, en este aspecto, dejó que se le rindieran honores divinos como un 
+βασιλεύς helenístico, como un διάδοχος Ἀλεξάνδρου.
+ La actitud aparentemente inocente por parte del emperador, no era tal, sino que 
+formaba parte de un pensamiento político4 meditado ―una ideología o construcción 
+religiosa del poder― que tenía como inalidad aumentar el prestigio de su persona a la 
+cabeza del Estado, robusteciendo su poder político y religioso en las ciudades grecófonas. 
+La mentalidad griega y su extraordinaria lengua, más rica que la latina en todas sus 
+expresiones literarias, adornan los elogios oiciales dispensados a Augusto con epítetos 
+1 
+2 
+3 
+4 
+Ross Taylor, 1931, pp. 267-269.
+ Así nos lo recuerda el título del reciente libro de Luciano Cánfora: Augusto iglio di Dio, 2015.
+ Ross Taylor, 1931, pp. 277-283.
+ Ross Taylor, 1931, p. 237: «for Augustus the imperial cult was primarily an instrument of politics».
+ G. Bravo y R. González Salinero (eds.), XIV Coloquio de la AIER. Ideología y religión en el mundo romano, 
+Signifer Libros, Madrid/Salamanca, 2017 [ISBN: 978-84-16202-15-7] pp. 149-174
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Figura 1. Asia Menor y Lycia en época de Augusto.
+ 150
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ y frases que rozan la poesía y la himnología sagrada. Es lo que Tácito considera, para 
+tiempos algo posteriores, característico de la adulatio graeca5.
+ Aquí reunimos varios textos epigráicos excepcionales que ilustran muy bien la idea 
+de cómo en Asia Augusto es considerado un praesens et conspicuus deus6, como le 
+denomina Ovidio (Trist. II, 54), siendo de particular interés la consideración de que 
+tal condición de dios la adquirió en el mismo momento de su nacimiento, es decir, que 
+es un θεὸς Ἐπιφανὴς, «un dios manifestado en la tierra», cuya divinidad impregna el 
+universo entero.
+ Veamos los documentos de Priene y Halicarnaso, en Asia Menor, y de Myra, algo 
+más al sur, en Lycia. Véase el mapa (Fig. 1), con la ubicación de estas ciudades.
+ 1. Πριηνη Πολις ’Iωνιας
+ La inscripción de Priene7 (Fig. 2 A y B) traslada el decreto de la Asamblea Provincial de 
+Asia, en un día y mes impreciso, del año 9 a.C.8 El texto tiene dos partes bien diferen
+ciadas: primero, una carta dirigida por el procónsul de Asia, Paulus Fabius Maximus a 
+la Asamblea (líneas 1-30), segundo, el decreto de la Asamblea (líneas 40-84). En ambas 
+partes, y por boca de distintos portavoces, por tanto, se hace un extenso encomio de 
+Augusto.
+ El eje sobre el que se vertebran ambos discursos es la importancia del culto imperial 
+rendido a la persona de Augusto, con un motivo muy especial: la fecha de su aniversario 
+(23 septiembre). Y algo aún más importante si cabe: asociar los beneicios de la pax 
+romana con el propio emperador, por el hecho mismo de su existencia.
+ El protagonista del documento, Fabio Máximo (46 a.C.-14 d.C.), era un noble romano 
+de la rancia cuna de los Fabios; conocía bien el Oriente, pues fue cuestor con Augusto 
+durante los años 22 al 19. El año 11 a.C., coincidiendo con su matrimonio con Marcia 
+(hija de Lucius Marcius Philippus y de Atia Minor), recibe el consulado, y luego el 
+proconsulado de Chipre; entre los años 10 y 3 a.C., el proconsulado de Asia. Su último 
+puesto conocido es legado de la Tarraconense en el 2 a.C. Era un personaje inluyente 
+5 
+Tac. Ann. VI, 18. Aunque una buena razón que puede explicar la desmedida devoción de las ciuda
+des de Asia hacia Augusto es la que aparece en las Res Gestae 24.1: «Tras la victoria (Actíaca) devolví a 
+los templos de todas las ciudades de la provincia de Asia sus riquezas., que aquel contra quien yo luchaba  
+guardaba en privado tras haber expoliado los templos» (In templis omnium civitatium provinciae Asiae victor 
+ornamenta reposui, quae spoliatis templis is cum quo bellum gesseram privatim possederat).  El texto es 
+una invectiva contra Marco Antonio, al que se acusaba de haber robado estatuas de los templos de Samos 
+(Strab. XIV, 1, 14), Éfeso y Pérgamo, que fueron repuestas por Augusto Al parecer Antonio también hizo lo 
+mismo en algunos templos egipcios (Strab. XIII, 1, 30).
+ 6 
+7 
+Vid. Scott, 1930, pp. 58-69.
+ Ahora conservada en el Museo Estatal de Berlín. CIG 3957; Chapot, 1904, pp. 390-391; Dittenberger, 
+1905, nº 458; Gaertringen, 1906, nº 105; Ehrenberg y Jones, 19552, 81-83 (nº 98); Lafi, 1967, 5-98; Sherk, 
+1984, nº 65 (pp. 328-337); McCabe, 1991, nº 138; Bringmann, 2008, 233 (tr. parcial); Blümel, Merkelbach 
+y Rumscheid, 2014, I, nº 14, II, pp. 12-13 (fotos), y con la literatura anterior.
+ 8 
+La discusión sobre la fecha, Atkinson, 1958, pp. 324-326; Lafi, 1967, pp. 32-34.
+ 151
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Figura 2 A y B. Inscripción en dos bloques de piedra. Museo Estatal de Berlín.
+ 152
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ en la corte, y famoso en Roma, también por su aición a la poesía, que cultivaba. Supo 
+rodearse de los mejores amigos en este sentido: basta recordar que su boda es cantada por 
+Ovidio en un epitalamio, y que era amigo de Horacio (este le cita en una de sus Odas)9. 
+Juvenal asegura que era un gran protector de la poesía10. Tácito, Ann., I, V, 2, cuenta que 
+acompañó a Augusto hasta la isla de Planasia, donde estaba exiliado Agripa Póstumo, 
+el último de sus nietos (era el hijo menor de Agripa y de su hija Julia), cuando abuelo 
+y nieto se reconciliaron. Paulo murió en el verano del 14 d.C.11, igual que Augusto. La 
+simpatía no disimulada de Paulo hacia Póstumo podía entenderse como un gesto de 
+oposición hacia Augusto, y en especial hacia Livia, que tenía otras pretensiones para el 
+trono, su hijo Tiberio. Eso no signiica, como vemos por este y otros documentos, que 
+durante sus magistraturas no se mostrase absolutamente iel a Augusto, y adulador de su 
+persona en forma extrema, casi exagerada.
+ He aportado estas pinceladas de su biografía porque creo que su vocación literaria 
+y su formación retórica se perciben en la primera parte de la inscripción, que es la carta 
+del procónsul dirigida al koinon de Asia12.
+ El texto recoge, a modo de acta, lo acontecido en un acto público: la convocatoria 
+realizada por el procónsul de Asia para que se reuniesen en Pérgamo los representantes 
+de las ciudades que componen el koinon. El motivo es una excusa para honrar Augusto, 
+y para ello se crea un concurso para ver quién encuentra la mejor forma de enaltecerlo. 
+El premio para el triunfador sería una «corona otorgada por el Asamblea Provincial». 
+Sabemos por el texto, que el ganador del concurso es el propio procónsul, con la siguiente 
+propuesta inalmente ganadora: crear un calendario nuevo para la provincia de Asia, en el 
+que el primer día del año debía ser el 23 de septiembre, día del nacimiento (y aniversario) 
+de Augusto13.
+ El acto fue muy importante. Cabe pensar en un gran ceremonial con boato de tipo 
+oicial, con los representes de cada una las ciudades principales, en el que el gobernador 
+provincial interpretaba un papel protagonista en los actos de tipo civil y religioso. Tras 
+9 
+Se cree que la última esposa de Ovidio era Fabia, mujer divorciada de su primer marido y que conoció 
+al poeta en casa de Fabio Máximo, que solía frecuentar, y con el que guardaba bastante amistad (eran también 
+quizás su patrón o mecenas literario) como se deduce del hecho de que compusiera un himeneo con motivo 
+de las nupcias del senador. La amistad también se forjó entre Marcia (esposa de Fabio Máximo) y Fabia 
+(esposa de Ovidio); esta amistad queridísima se expresa en Ovid. Pont. I, 2, 138; y frecuentaban el círculo 
+de amistades de Atia Minor, madre de Marcia, esta última prima de Augusto, puesto que el princeps era hijo 
+de Atia Maior. Estos encuentros pueden fecharse entre el 15 y 12 a.C. El matrimonio de Fabio Máximo y de 
+Marcia quizás sea del año 15 a.C., si atendemos a la Oda IV, 1 de Horacio, cuya parte central está dedicada 
+a cantar esta unión conyugal (en los versos 10-18). De las palabras del propio Horacio se deduce que está 
+narrando hechos del año 15. Sobre estas relaciones y su eco en la obra de Ovidio, vid. Baeza Angulo, 2010, 
+p. 53.
+ 10 Juv. Sat. VII, 95-96.
+ 11 Syme, 1989, p. 414
+ 12 La mejor síntesis que conozco sobre el concepto de estos concilia provinciales de Asia es el viejo, 
+pero extraordinario, estudio de Chapot, 1904, pp. 454-467, correspondientes al capítulo V, «Les ‘koina’ et 
+le ‘koinon Ἀσιας’»; Sartre, 1994, pp. 118-121.
+ 13 Sobre la reforma del augusteo descrito en estas inscripciones, Chapot, 1904, pp. 390-392; Lafi, 
+1967, pp. 29-34 y 39-46; Habicht, 1973, pp. 80ss.
+ 153
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ los discursos, no faltaron los bailes y los banquetes. La reunión tuvo lugar en Pérgamo, 
+y allí se puso, unos días o semanas después del acto, el monumento ―es decir, la ins
+cripción sobre bloques de piedra― que recoge, como dijimos, a modo de acta oicial, lo 
+fundamental del acto. 
+El documento, como se indica ahí mismo, por orden del procónsul, debía ser puesto 
+en griego y en latín. Esto es, en la lengua oicial del Imperio, y en la lengua vernácula. 
+Y del mismo modo, debían hacerse copias literalmente idénticas en las ciudades cuyos 
+representantes habían acudido a la cita de la Asamblea. Una de estas ciudades era Priene. 
+De esta ciudad procede el texto más completo y, al mismo tiempo, es el que fue hallado 
+primero, de modo que es el comúnmente tomado como base para su estudio. Se han 
+conservado fragmentos del decreto griego, así como pedazos de inscripciones con la 
+traducción latina, en Apamea, Maenoia, Eumeneia y Dorylaeum14. Una edición completa 
+y comparativa de todos los fragmentos, con comentarios, la encontramos en los estudios 
+de Lafi (1967) y de Blümel, Merkelbach y Rumscheid (2014). De esta última edición 
+crítica tomamos el texto que damos en líneas siguientes.
+ Aunque un análisis literario permite establecer varias partes o subdivisiones en ra
+zón de su contenido, en esencia el documento consta de dos partes: una primera, líneas 
+1-30) que traslada expressis verbis el decreto (διάταγμα, edictum) del procónsul Fabio 
+Máximo; la segunda parte, líneas 30-84 recoge el decreto acordado por la Asamblea, en 
+dos ψηφίσματα15, el primero en líneas 30-77, y el segundo, más breve en líneas 78-84. 
+Renunciamos en esta edición de algunas líneas previas que debía preceder al decreto, en 
+todo caso muy fragmentadas, de la copia de Apamea que ha conservado breves líneas 
+en latín y griego de ese prefacio. 
+El conjunto del monumento traslada el texto τοῦ ἀνθυπάτου διάταγμα καὶ τὸ τῆς 
+Ἀσία<ς> ψήφισμα.
+ He aquí el texto del διάταγμα del procónsul, que nos interesa ahora especialmente 
+porque es aquí donde se traslada ―puesto en boca del gobernador, hablando a la Asam
+blea― el generoso encomio que este hace de Augusto.
+ 1
+ 5
+ [Παῦλλος Φάβιος Μάξιμος] ἀνθύπατος λέγει· [                    ]
+ [.]̣ν̣ παρὰ τῶν πρότ[ερ]ον παρειλ[ήφαμεν –                     ]ι̣αν̣ 
+καὶ τὸ τῶν θεῶν [ε]ὐμενὲς κα[ὶ – ]              ἀπ]ορεῖσ[ θαι     ]
+ [πότ]ε̣ρ̣ον ἡδείων ἢ ὠφελ[ιμω]τ[έρα ἐ]στὶν ἡ τοῦ θειοτάτου Καίσαρος γενέ
+θλιος ἡμέρα, ἣν τῆι τῶν πάντων ἀρχῆι ἴσηι δικαίως ἂν εἶναι ὑπ[ολά]βοιμεν, 
+καὶ εἰ μὴ τῆι φύσι, τῶι γε χρησίμωι, εἴ γε οὐδὲ[ν ο]ὐχὶ διαπεῖπτον καὶ εἰς ἀτυ
+χὲς μεταβεβηκὸς σχῆμα ἀνώρθωσεν, ἑτέραν τε ἔδωκεν πάντι τῶι 
+κόσμωι ὄψιν, ἥδιστα ἂν δεξαμένωι φθοράν, εἰ μὴ τὸ κοινὸν πάντων εὐ
+τύχημα ἐπεγεννήθηι Καῖσαρ. διὸ ἄν τις δικαίως ὑπολάβοι τοῦτο ἁτῶι 
+14 Lafi, 1967, pp. 8-15 y 82-96, con las ediciones ―bien en lengua griega, bien en latina― de la 
+inscripción.
+ 15 Por ψήφισμα hay que entender el decreto o acuerdo logrado tras haber obtenido una mayoría de 
+votos en una Asamblea.
+ 154
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ 10 ἀρχὴν τοῦ βίου καὶ τῆς ζωῆς γεγονέναι, ὅ ἐστιν πέρας καὶ ὅρος τοῦ με
+ταμέλεσθαι, ὅτι γεγέννηται· καὶ ἐπεὶ οὐδεμιᾶς ἂν ἀπὸ ἡμέρας εἴς 
+τε τὸ κοινὸν καὶ εἰς τὸ ἴδιον ἕκαστος ὄφελος εὐτυχεστέρας λάβοι 
+ἀφορμὰς ἢ τῆς πᾶσιν γενομένης εὐτυχοῦς, σχεδόν τε συμβαίνει 
+τὸν αὐτὸν ταῖς ἐν Ἀσίαι πόλεσιν καιρὸν εἶναι τῆς εἰς τὴν ἀρχὴν εἰσόδου, 
+15 δηλονότι κατά τινα θήαν βούλησιν οὕτως τῆς τάξεως προτετυπωμέ
+νης, ἵνα ἀφορμὴ γένοιτο τῆς εἰς τὸν Σεβαστὸν τιμῆς, καὶ ἐπε[ὶ δύσκο]
+[λο]ν μέν ἐστιν τοῖς τοσούτοις αὐτοῦ εὐεργετήμασιν κατ’ ἴσον εὐχαρις
+τεῖν, εἰ μὴ παρ’ ἕκαστα ἐπινοήσαιμεν τρόπον τινὰ τῆς ἀμείψε[ως,] 
+[ἥδειον] δ’ ἂν ἄνθρωποι τὴν κοινὴν πᾶσιν ἡμέραν γενέθλιον ἀγά[γοιεν] 
+20 [ἐ]ὰν προσγένηται αὐτοῖς καὶ ἰδία τις διὰ τὴν ἀρχὴν ἡδονή, δοκεῖ μοι 
+πασῶν τῶν πολειτηῶν εἶναι μίαν καὶ τὴν αὐτὴν νέαν νουμηνίαν 
+τὴν τοῦ θηοτάτου Καίσαρος γενέθλιον, ἐκείνην τε πάντας εἰς τὴν 
+ἀρχὴν ἐνβαίνειν, ἥτις ἐστὶν πρὸ ἐννέα καλανδῶν Ὀκτωβρίων, ὅπως 
+καὶ περισσότερον τειμηθῆ προσλαβομένη ἔξωθέν τινα θρησκήαν καὶ 
+25 μᾶλλον πᾶσιν γένηται γνώριμος· ἣν οἴομαι καὶ πλείστην εὐχρηστίαν 
+τῆι ἐπαρχήᾳ παρέξεσθαι. ψήφισμα δὲ ὑπὸ τοῦ κοινοῦ τῆς Ἀσίας δεή
+σει γραφῆναι πάσας ἐνπεριειληφὸς τὰς ἀρετὰς αὐτοῦ, ἵνα τὸ ἐπινοη
+θὲν ὑφ’ ἡμῶν εἰς τὴν τειμῆν τοῦ Σεβαστοῦ μείνῃ αἰώνιον. προστάξω 
+δὲ χαραχθὲν <ἐν> τῇ στήλῃ τὸ ψήφισμα ἐν τῷ ναῷ ἀνατεθῆναι, προστά
+30 ξας τὸ διάταγμα ἑκατέρως γραφέν.
+ [...] Paulo Fabio Máximo, procónsul, dice: de nuestros antepasados   (?) hemos recibido 
+[---] la buena voluntad de los dioses, y [de todo], lo más interesante y más beneicioso 
+es el día natal del muy divino César, que debemos mirar justamente como el principio 
+de todos los bienes, a saber, no el orden de la naturaleza, sino el de la utilidad, pues ni 
+siquiera una plegaria habría podido restablecer una situación sin esperanza y precipitarse 
+al infortunio, ni dar una segunda naturaleza a un mundo dispuesto a ser destruido, si para 
+la prosperidad de todos César no hubiera nacido. Por tanto, es de buena justicia que los 
+hombres hagan coincidir el comienzo de su existencia con la época en la que han dejado 
+de sufrir recibiendo la vida; así pues, para obtener auspicios favorables, ya sea a título 
+particular cuando se trate de personas solas, ya sea en público cuando conciernan a todos, 
+ningún día puede ser considerado más apropiado; en consecuencia, en las ciudades de 
+Asia, las entradas a su cargo de los magistrados coincidirán con el primer día del nuevo 
+año, momento que, sin duda por mandato de los dioses, deseosos de honrar a nuestro 
+príncipe, corresponde al día de su nacimiento; y, puesto que es difícil volver a tener en 
+cuenta cada una de sus muchas grandes obras benéicas en la misma medida y establecer 
+para cada una de ellas una forma de agradecimiento, pensamos que un modo de compen
+sarlas es que, con gran alegría, todos los hombres celebren su natalicio en el momento 
+en que (él / ellos) inicien sus magistraturas; me parece adecuado que el día primer día de 
+Año Nuevo sea para todos los Estados el natalicio del muy divino César, y que en ese día, 
+el noveno antes de las calendas del mes de octubre (23 septiembre), todos los hombres 
+entren en la función pública, con el in de que de una manera aún más extraordinaria ese 
+día pueda ser honrado al iniciar su ocupación sin que tenga que haber un acto religioso 
+y que (él / ellos) puedan ser reconocidos por todos. Espero que esta (norma) tenga éxito 
+155
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ en la provincia. El decreto del koinon de Asia tiene que ponerse por escrito anunciando 
+todos sus beneicios, con la inalidad de que nuestra propuesta ―que pretende honrar a 
+Augusto― esté siempre vigente. He mandado que el decreto sea grabado en una estela y 
+que se erija en el templo (de Roma y de Augusto en Pérgamo), precedido por mi escrito 
+en ambas lenguas.
+ Las palabras antedichas, pronunciadas ante la Asamblea son ratiicadas por la esta. La idea 
+sobre la que se vertebra todo el discurso es el natalicio de Augusto como Buena Nueva 
+y el primer día de una Nueva Era para el mundo. Parece que Augusto o sus consejeros 
+«culturales» quisieron imitar en este punto la importancia que tradición atribuía al día 
+natal de Escipión o al de Alejandro.
+ En las líneas siguientes, el texto nos aporta otros detalles acerca del mencionado 
+concurso y de la concesión de la corona  al vencedor. Todo el texto gira en torno a la idea 
+del διάταγμα, ya leído, del procónsul. Y desarrolla la idea ganadora del certamen cuya 
+inalidad es buscar la forma óptima de honrar al emperador. Veamos el primer ψήφισμα:
+ 30      
+ἔδοξεν τοῖς ἐπὶ τῆς Ἀσίας 
+31 Ἕλλησιν, γνώμῃ τοῦ ἀρχιερέως Ἀπολλωνίου τοῦ Μηνοφίλου Ἀζανίτου· 
+ἐπε[ιδὴ ἡ θείως] διατάξασα τὸν βίον ἡμῶν πρόνοια σπουδὴν εἰσεν[ενκα]
+[μ]ένη καὶ φιλοτιμίαν τὸ τεληότατον τῶι βίωι διεκόσμη[σεν ἀγαθὸν] 
+ἐνενκαμένη τὸν Σεβαστόν, ὃν εἰς εὐεργεσίαν ἀνθρώ[πων] ἐπλή
+35 ρωσεν ἀρετῆς, <ὥ>σπερ ἡμεῖν καὶ τοῖς μεθ’ ἡ[μᾶς σωτῆρα χαρισαμένη] 
+τὸν παύσαντα μὲν πόλεμον, κοσμήσοντα [δὲ εἰρήνην, ἐπιφανεὶς δὲ] 
+ὁ Καῖσαρ τὰς ἐλπίδας τῶν προλαβόντων [εὐανγέλια πάντων ὑπερ]
+έθηκεν, οὐ μόνον τοὺς πρὸ αὐτοῦ γεγονότ[ας εὐεργέτας ὑπερβα
+λόμενος, ἀλλ’ οὐδ’ ἐν τοῖς ἐσομένοις ἐλπίδ[α ὑπολιπὼν ὑπερβολῆς,] 
+40 ἤρξεν δὲ τῶι κόσμωι τῶν δι’ αὐτὸν εὐανγελί[ων ἡ γενέθλιος ἡμέ]ρα 
+τοῦ θεοῦ, τῆς δὲ Ἀσίας ἐψηφισμένης ἐν Σμύρνῃ [ἐπὶ ἀνθυ]π̣άτου 
+Λευκίου Οὐολκακίου Τύλλου, γραμματεύοντος Παπ[ίωνος Διοσιεριτοῦ] 
+τῶι μεγίστας γ’ εἰς τὸν θεὸν καθευρόντι τειμὰς εἶναι στέφανον, 
+Παῦλλος Φάβιος Μάξιμος ὁ ἀνθύπατος τῆς ἐπαρχήας εὐεργέτης 
+45 ἀπὸ τῆς ἐκείνου δεξιᾶς καὶ [γ]νώμης ἀπεσταλμένος ξὺν τοῖς ἄλλοις 
+οἷς εὐεργέτησεν τὴν ἐπαρχήαν, ὧν εὐεργεσιῶν τὰ μεγέθη λόγος 
+εἰπεῖν οὐδεὶς ἂν ἐφίκοιτο, καὶ τὸ μέχρι νῦν ἀγνοηθὲν ὑπὸ τῶν Ἑλλή
+νων εἰς τὴν τοῦ Σεβαστοῦ τειμὴν εὕρετο, τὸ ἀπὸ τῆς ἐκείνου γενέ
+σεως ἄρχειν τῷ βίῳ τὸν χρόνον· διὸ τύχῃ ἀγαθῇ καὶ ἐπὶ σωτηρίᾳ δεδό
+50 χθαι τοῖς ἐπὶ τῆς Ἀσίας Ἕλλησι, ἄρχειν τὴν νέαν νουμηνίαν πάσα[ις] 
+ταῖς πόλεσιν τῇ πρὸ ἐννέα καλανδῶν Ὀκτωβρίων, ἥτις ἐστὶν γενέ
+θλιος ἡμέρα τοῦ Σεβαστοῦ. ὅπως δὲ ἀεὶ ἡ {τε} ἡμέρα στοιχῇ καθ’ ἑκάς
+την πόλιν, συνχρηματίζειν τῇ Ῥωμαϊκῇ καὶ τὴν Ἑλληνικὴν ἡμέραν. 
+ἄγεσθαι δὲ τὸν πρῶτον μῆνα Καίσαρα, καθὰ καὶ προεψήφισται, ἀρχόμε
+55 νον ἀπὸ πρὸ ἐννέα μὲν καλανδῶν Ὀκτωβρίων, γενεθλίου δὲ ἡμέρας 
+Καίσαρος, τὸν δὲ ἐψηφισμένον στέφανον τῷ τὰς μεγίστας εὑρόντι 
+τειμὰς ὑπὲρ Καίσαρος δεδόσθαι Μαξίμωι τῶι ἀνθυπάτωι, ὃν καὶ ἀεὶ 
+156
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ ἀναγορεύεσθαι ἐν τῷ γυμ[νι]κῷ ἀγῶνι τῶι ἐν Περγάμωι τῶν Ῥω[μα]ίων 
+Σεβαστῶν, ὅτι στεφανοῖ [ἡ Ἀς]ία Παῦλον Φάβιον Μάξιμον εὐ[σεβ]έ[ς]
+60 τατα παρευρόντα τὰς εἰς Καίσαρα τειμάς. ὡσαύτως δὲ ἀνα[γορεύ]ες
+θαι καὶ ἐν τοῖς ἀγομένοις κατὰ πόλιν ἀγῶσιν τῶν Καισαρήων. 
+ἀναγραφῆναι δὲ τὸ δελτογράφημα τοῦ ἀνθυπάτου καὶ τὸ ψήφισμα τῆς 
+Ἀσίας ἐν στήλῃ λευκολίθωι, ἣν καὶ τεθῆναι ἐν τῶι τῆς Ῥώμης καὶ τοῦ 
+Σεβαστοῦ τεμένει. προνοῆσαι δὲ καὶ τοὺς καθ’ ἕτος ἐκδίκους ὅπως 
+65 ἐν ταῖς ἀφηγουμέναις τῶν διοικήσεων πόλεσιν ἐν στήλαις λευ
+κολίθοις ἐνχαραχθῇ τό τε δελτογράφημα τοῦ Μαξίμου καὶ τὸ τῆς Ἀσίας 
+ψήφισμα, αὗταί τε αἱ στῆλαι τεθῶσιν ἐν τοῖς Καισαρήοις. ἀχθήσονται 
+οἱ μῆνες κατὰ τάδε. Καῖσαρ ἡμερῶν λαʹ, Ἀπελλαῖος ἡμερῶν λʹ, 
+Αὐδναῖος ἡμερῶν λαʹ, Περίτιος ἡμερῶν λαʹ, Δύστρος κηʹ, Ξανδικός λαʹ, 
+70 Ἀρτεμισιὼν ἡμερῶν λʹ, Δαίσιος λαʹ, Πάνημος λʹ, Λῶος λαʹ, Γορπιαῖος λαʹ, 
+Ὑπερβερεταῖος λʹ· ὁμοῦ ἡμέραι τξεʹ. ἐφ’ ἕτος δὲ διὰ τὴν ἰντερκαλάριον 
+ὁ Ξανδικὸς ἀχθήσεται ἡμερῶν λβʹ. ἵνα δὲ ἀπὸ τοῦ νῦν στοιχήσωσιν οἱ 
+μῆνες καὶ αἱ ἡμέραι, ὁ μὲν νῦν ἐνεστὼς Περίτιος μὴν ἀχθήσεται μέχρι τῆς 
+ιδ’, τῇ δὲ πρὸ ἐννέα καλανδῶν Φεβρουαρίων ἄξομεν νουμηνίαν μηνὸς 
+75 Δύστρου, καὶ καθ’ ἕκαστον μῆνα ἀρχὴ{ι} ἔσται τῆς νουμηνίας ἡ πρὸ ἐννέα 
+καλανδῶν. ἡ δὲ ἐνβόλιμος ἡμέρα ἔσται πάντοτε τῶν ἰντερκαλαρίων κα
+λανδῶν τοῦ Ξανδικοῦ μηνός, δύο ἐτῶν μέσων γεινομένων.
+ [30-52] Decreto de los ciudadanos griegos de Asia, a propuesta del archisacerdote (archie
+reus) Apolonio, hijo de Menóilo de Aizanoi. Dado que la Providencia divina (πρόνοια) 
+que rige nuestras vidas, manifestando buena disposición y generosidad, ha ejecutado 
+un plan perfecto para la vida al enviarnos a Augusto, ha colmado las expectativas be
+neiciosas de los hombres virtuosos, presentándose como un salvador para nosotros, 
+acabando deinitivamente la guerra y restableciendo el orden de todas las cosas; César, 
+con su epifanía, ha sobrepasado las esperanzas de todos los que había recibido antes esta 
+buena nueva (εὐανγέλια πάντων ὑπερέθηκεν), no solo superando con sus actos benéicos 
+las acciones de sus predecesores, sino también poniendo muy alto el listón para poder 
+superarlos. Para el cosmos, el día natalicio del dios ha dado inicio a una serie de buenas 
+nuevas anunciadas por él mismo (ἤρξεν δὲ τῶι κόσμωι τῶν δι’ αὐτὸν εὐανγελί[ων ἡ 
+γενέθλιος ἡμέ]ρα τοῦ θεοῦ).
+ [52-67] La Asamblea de la provincia de Asia, reunida en Esmirna siendo procónsul 
+Lucio Volcatio Tullo, y secretario Papión de Doserito, determinó que a aquel que otorgó 
+los mayores honores al dios (Augusto) le fuera concedida una corona: a Paulo Fabio 
+Máximo, procónsul de la provincia, su mano derecha y su mente, que al igual que otros 
+que otorgaron beneicios a la provincia ―tantas mercedes que por su grandeza ningún 
+discurso puede describir― ha considerado justo algo que hasta ahora no había sido 
+imaginado por los griegos de Asia en honor de Augusto, es decir, que el día de su na
+cimiento (nueve días antes de las calendas de Octubre) marque el ritmo de la vida; de 
+modo que, para la buena fortuna y por nuestra salvación, el conjunto de los ciudadanos 
+griegos de Asia decretó establecer una nueva numenia (inicio de año) el noveno día antes 
+de las calendas de octubre, natalicio de Augusto; y que esa fecha se aplique en todas 
+157
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ las ciudades, igualando así los cómputos romano y griego. El primer mes debe ser el de 
+Kaisareon tal como se ha decretado previamente, calculado a partir del noveno día antes 
+de las calendas de octubre, natalicio de César. Y se decretó que la corona destinada a 
+quienes otorgasen los mayores honores César, le sea entregada a Máximo, el procónsul, 
+y que como tal sea proclamado en el certamen gimnástico que tiene lugar en Pérgamo 
+con motivo de las iestas en honor de Roma y de Augusto, siendo (la provincia) de Asia 
+la que corona a Paulo Fabio Máximo por haber sido él quien de forma más piadosa ha 
+rendido honores a César; el mismo debe ser igualmente proclamado (vencedor) en los 
+certámenes de las iestas que en honor de Augusto se celebren en cada ciudad singular. 
+El escrito del procónsul y el decreto de la provincia de Asia deben ser inscritos en una 
+estela de mármol blanco, que debe situarse en el templo de Roma y de Augusto.
+ [67-77] Los meses serán contados así: Kaisar 31 días, Apellaios 30 días, Audnaios 31 
+días, Peritios 31 días, Dystros 28, Xandikos 31, Artemision 30 días, Diasios 31, Panemos 
+30, Loos 31, Gorpaios 31, Yperberetaios 30, en total 365 días. El año actual, por causa del 
+día intercalar, Xandikos contará con 32 días. Por tanto, y para que los meses y los días se 
+ajusten, el mes de Peritios, ahora en curso, acabará el día 14, y el día previo a las calendas 
+del mes de febrero será considerado el comienzo del mes de Dystros, y todos los meses 
+comenzarán el día noveno antes de las calendas. El día intercalar corresponderá siempre 
+con las calendas intercalares del mes de Xandikos, quedando en la mitad del bienio.
+ El segundo ψήφισμα (lín. 78-84), con el que concluye el texto, redunda en lo anterior:
+ ἔδοξεν τοῖς ἐπὶ τῆς Ἀσίας Ἕλλησιν, γνώμῃ τοῦ ἀρχιερέως Ἀπολλωνίου τοῦ 
+Μηνοφίλου Ἀζεανείτου· ἐπεὶ τὴν νέαν νουμηνίαν ἀεὶ δεῖ ἑστᾶναι τὴν αὐτὴ[ν] 
+80 ἅπασιν τῆς εἰς τὰς ἀρχὰς εἰσόδου κατά τε τὸ Παύλου Φαβίου Μαξίμου τοῦ ἀν
+θυπάτου διάταγμα καὶ τὸ τῆς Ἀσία<ς> ψήφισμα, ἐνποδίζεται δὲ ἡ τοῦ χρόνου 
+τάξις παρὰ τὰς ἐν τοῖς ἀρχαιρεσίοις ἐπικλήσεις, γείνεσθαι τὰ κατὰ τὰ 
+ἀρχαιρέσια μηνὶ δεκάτῳ, ὡς καὶ ἐν τῷ Κορνηλίωι νόμωι γέγραπται, ἐντὸς 
+δεκάτης ἱσταμένου. vacat
+ Decisión de los griegos en Asia, a petición del archisacerdote Apolonio, hijo de Menoilo 
+de Aizanoi. El día de año nuevo debe coincidir con el día en que cada uno asuma su cargo, 
+una vez conocido el edicto de Paulo Fabio Máximo y el beneplácito de la provincia de 
+Asia; sin embargo, como esta norma va en perjuicio de la renuntiationes en actos de 
+campaña (electoral), las reuniones relativas a elecciones se llevarán a cabo en el mes 
+décimo, según lo establece la lex Cornelia, durante los diez primeros días.
+ Indudablemente el texto es un largo y reiterativo encomio de Augusto. Y podríamos 
+preguntarnos si este tipo de documentos son frecuentes en Asia durante su gobierno. A 
+decir verdad, hay bastantes. El viejo pero importante estudio de L. Ross Taylor reúne 
+decenas de testimonios de culto rendido a Augusto y a su familia, tanto en Oriente como 
+158
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ en Occidente, en inscripciones y papiros16. Recurrentemente se le llama θεὸς, en calidad 
+de θεὸς Ἐπιφανὴς (manifestado en la tierra), Σῶτερ (salvador), Εὐεργέτης (benefactor), y 
+Κτίστης (fundador). Si bien conviene indicar que en la provincia de Asia los documentos 
+relativos al culto de Augusto se concentran en el gobierno de tres consulares: M. Vinicius 
+(cos. 19 a.C.), Paulus Fabius Maximus (cos. 11 a.C.) y C. Marcius Censorinus (cos. 8 
+a.C.). Por distintas razones políticas y personales, son los procónsules de la provincia 
+los que incitan la propagación de tal culto, convocando en un lugar u otro al koinon, el 
+conventus provinciae, una de cuyas inalidades era precisamente honrar al emperador 
+en tanto hombre y dios vivo. Las ciudades griegas de Asia compiten entre sí por ser las 
+de más importancia en relación a las demás «competidoras por razones de rango y de 
+protocolo»17 y ser las primeras en exhibir su primado con respecto de Roma. Y quienes 
+protagonizan esos movimientos «de rivalidad» son las poderosas elites locales ilorro
+manas18. Volvamos a la inscripción de Priene.
+ Algunos editores que han examinado el vocabulario de este texto encomiástico, han 
+puesto el acento sobre algunas expresiones perifrásticas relativas al hecho central ―el 
+nacimiento de Augusto― comparándolas con el nacimiento de Jesús en el relato de Lu
+cas19. Se han encontrado expresiones paralelas. Ambos nacimientos consiguen implantar 
+la paz en la tierra, ἐπὶ γῆς εἰρήνη. El koinon de Asia considera a Augusto (Priene, lin. 36), 
+τὸν παύσαντα μὲν πόλεμον, κοσμήσοντα [δὲ εἰρήνην], «aquel que concluyó la guerra y 
+trajo la paz al mundo»; por su parte, el evangelio de Lucas (2, 14, relato de la natividad 
+de Jesús), para ensalzar el momento, proclama que el niño «trae la paz a los hombres 
+en la tierra», ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας. La línea 40 del texto de Priene, 
+ἤρξεν δὲ τῶι κόσμωι τῶν δι’ αὐτὸν εὐανγελί[ων ἡ γενέθλιος ἡμέ]ρα τοῦ θεοῦ («el día de 
+nacimiento de Dios es el comienzo de la buena nueva para el mundo»), parece inspirar 
+los versos Lc 2.10-11, ἰδοὺ γὰρ εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην ἥτις ἔσται παντὶ τῷ 
+λαῷ, ὅτι ἐτέχθη ὑμῖν σήμερον σωτὴρ ὅς ἐστιν «os anuncio una gran noticia para todo el 
+pueblo: hoy os ha nacido un salvador». Este término de «Salvador» citado por Lucas, 
+lo vemos en los dos textos referidos Augusto que veremos luego, el de Halicarnaso, lin. 
+6-7, σωτῆρα τοῦ κο[ιν]οῦ τῶν ἀνθρώπων γένους, «Salvador de toda la raza humana», y 
+16 Ross Taylor, 1931, 270-283. Desde la fecha de publicación de este estudio, los testimonios han 
+aumentado. El 12 a.C., el prefecto de Egipto erigió un templo en Philae en su honor. Un inscripción de este 
+templo, y de esta fecha (IGR, I, 1294) nombra a Augustus Σῶτερ y Εὐεργέτης.
+ 17 Cf. Gascó, 1990, p. 45.
+ 18 Gascó, 1990, pp. 90-91: «El signiicado central del culto al emperador se materializaba en las 
+ciudades con templos que arquitectónicamente ocupaban un lugar eminente en la distribución del espacio 
+de la ciudad».... «El culto imperial comprometía a la ciudad en pleno por su presencia ubicua y privilegiada 
+y también por cumplir para la ciudad una función integradora del Imperio. Dentro de la ciudad quedaba 
+especialmente implicada la aristocracia». Sobre culto imperial y conciencia cívica en las ciudades griegas 
+de oriente, Gascó, 1990, pp. 99-106; Sartre, 1994, 202-210.
+ 19 Como hizo ya en 1909 A. Deissmann en su obra Licht vom Osten, pp. 276-280. No debe extrañarnos 
+que Lucas, nacido en Antioquía, discípulo de Pablo de Tarso, y médico de profesión, fuera un hombre culto 
+que conocía muy bien el fenómeno del culto imperial en Asia, y que perfectamente podía tener noticia de 
+estos encomios religiosos relativos al natalicio de Augusto. Priene está muy cerca de las ciudades de Éfeso y 
+Colosas, a las que Pablo visitó ―se cree que en Éfeso permaneció tres años― y a las que escribe las cartas 
+didascálicas o exhortativas incluidas en el N.T.
+ 159
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ el de Myra, lin. 4-5: σωτῆρα τοῦ σύνπαντο[ς] κόσμου, «salvador de absolutamente todo 
+el universo»20. El único valor que tiene para nosotros el texto de Lucas en este punto es 
+que relaciona dos fechas de la historia universal: la uniicación de la ecúmene por Augusto 
+y el nacimiento del Jesús como «Salvador del mundo» en el mismo sentido que lo hacen 
+las inscripciones de Asia reiriéndose al emperador.
+ El énfasis que este texto y otros literarios ponen en el natalicio del emperador tiene 
+una gran transcendencia religiosa y política. Tras la divinización de Julio César, la de 
+Augusto asienta la institución del culto imperial, que tendría varios siglos de vigencia21.
+ Quiero subrayar la importancia que tienen las inscripciones, pues se hacen en vida del 
+propio emperador y con su conocimiento y consentimiento. Particularmente me merecen 
+menos credibilidad los mitos creados a posteriori ―en un momento incierto― y reunidos 
+o contados por las fuentes literarias «históricas», como son Suetonio o Casio Dión, ambos 
+muy aicionados a intercalar en sus relatos prodigios, coincidencias astrológicas y omina. 
+Así, y por centrarnos en el natalicio de Augusto, se decía que Apolo llegó al seno de su 
+madre, Atia tomando la forma de serpiente. Una concepción prodigiosa similar atribuye 
+la leyenda a Olimpia, la madre de Alejandro22. Suetonio indica que, en el momento de 
+20 Más forzado parece el argumento basado en Lucas 2.1-5, que haría coincidir el nacimiento de Jesús 
+con el primer censo mandado hacer por Augusto (Ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις ἐξῆλθεν δόγμα παρὰ 
+Καίσαρος Αὐγούστου ἀπογράφεσθαι πᾶσαν τὴν οἰκουμένην) y este a su vez concordando con su cumpleaños 
+(23 de septiembre), es decir, el famoso censo de Quirino, cuya fecha, a decir verdad, supone un verdadero 
+problema exegético a la hora de establecer tanto la fecha del censo como el propio nacimiento de Jesús. Cf. 
+Josefo, Ant. Iud. 17, 355; 18, 1 ss., y 20, 102. Las palabras de Lucas no son exactas y han de entenderse 
+metafóricamente, pues no se puede determinar con seguridad que Jesús naciese el 7 o el 6, y está claro que 
+el censo de Quirino, gobernador de Siria, no sólo afectó a Judea, sino a toda la provincia de Siria, pues cono
+cemos una piedra sepulcral que menciona a un oicial romano que sirvió a las órdenes de Quirino, indicando 
+que realizó el catastro de la ciudad de Apamea y el censo de sus 117.000 ciudadanos (Bringmann, 2008, 222 
+y 309 n. 75). Sobre los problemas cronológicos que presenta el texto de Lucas relativo al nacimiento de Jesús, 
+cf. Schürer (rev. por Vermes y Millar), 1985, pp. 515-550 y Rosen, 1995, pp. 5-15. He aquí la inscripción de 
+Beyruth  relativa al oicial Q. Aemilius Secundus (CIL III, 6687; Dessau, ILS 2683 = AE 2006, 1579; Boffo, 
+1994, p. 182, nº 23), datada hacia el año 20 d.C. (vid. Fig. 3): Q(uintus) Aemilius Q(uinti) f(ilius) / Pal(atina) 
+Secundus [in] / castris divi Aug(usti) [sub] / P(ublio) Sulpi[c]io Quirinio le[g(ato) Aug(usti)] / [Ca]esaris 
+Syriae honori/bus decoratus pr[a]efect(us) / cohort(is) Aug(usti) I pr[a]efect(us) cohort(is) II classicae 
+idem / iussu Quirini censum egi / Apamenae civitatis mil/lium homin(um) civium CXVII / idem missu Quirini 
+adversus / Ituraeos in Libano monte / castellum eorum cepi et ante / militi<a=E>m praefect(us) fabrum / 
+delatus a duobus co(n)s(ulibus) ad ae/rarium et in colonia / quaestor aedil(is) II duumvir II / pontifex{s} / ibi 
+positi sunt Q(uintus) Aemilius Q(uinti) f(ilius) Pal(atina) / Secundus f(ilius) et Aemilia Chia lib(erta) / h(oc) 
+m(onumentum) amplius h(eredem) n(on) s(equetur). Traducción: «Q. Emilio Secundo, hijo de Quinto, de la 
+tribu Palatina, fue condecorado en el campamento de divino Augusto, siendo P. Sulpicio Quirino legado de 
+Augusto César en Siria; prefecto de la I cohorte augusta y prefecto de la II cohorte naval,  como tal realizó 
+el censo por orden de Quirino en la ciudad de Apamea, de 117.000 ciudadanos, (luego) enviado por Quirino 
+contra los itureos en el Líbano tomando su ciudadela en el monte Líbano; y antes de sus destinos militares, 
+cesó como prefecto de la fábrica siendo trasladado por dos cónsules para dirigir el erario, y en la colonia 
+ejerció dos veces como cuestor edil, dos veces como duunviro, y pontíice. Aquí yace su hijo Q. Emilio 
+Secundo, de la tribu Palatina, y la liberta Emilia Chia. Este monumento queda excluido de la herencia».
+ 21 Si bien parece que a partir de Tiberio se moderó bastante el tono de los encomios dirigidos a los 
+emperadores. Price, 1984, p. 57. El propio Tiberio rechazó recibir honores divinos en vida.
+ 22 No debe pasarnos inadvertido el hecho de que el episodio de concepción de Atia por una serpiente lo 
+cuente, según Suetonio (Aug. 94) Asclepiades de Mendes, en una obra titulada Discusiones sobre los dioses 
+(In Asclepiadis Mendetis Theologumenon libris), siendo este autor el mismo que escribió algunos libros 
+sobre Egipto, según Ateneo (Deipn. III, 83c). Y sabemos que fue en Egipto donde se formó la leyenda de la 
+unión prodigiosa y divina de Olimpia y una serpiente que dejó encinta a la reina macedonia.
+ 160
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Figura 3. Beyruth. Tumba que menciona al prefecto Q. Aemilius Secundus, que realizó un censo en 
+Apamea por orden de Quirino en época de Augusto. Citado aquí en nota 20.
+ 161
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ su nacimiento, los ojos de Octavio «eran claros y brillantes e incluso quería que todo 
+el mundo creyese que poseían como una especie de fuerza divina, y le gustaba que las 
+personas a las que miraba ijamente bajasen los ojos como deslumbrados por el resplandor 
+del sol»23. Varias historias asocian a Augusto con el dios-sol, una asociación familiar 
+para el gobernante universal y apropiado para quien aseguraba ser hijo de Apolo. Esa 
+mirada divina se ha equiparado a la potencia de la mirada del águila, que es el heraldo 
+del Júpiter, y símbolo de la realeza24. Antes de su nacimiento se dijo que su madre había 
+soñado que el fruto de su vientre era llevado al cielo y se extendió por toda la tierra y 
+del cielo. En el mismo período se le atribuye a su padre un sueño de que el esplendor 
+de los rayos del sol resplandecía alrededor del cuerpo de su esposa. El gran astrólogo 
+romano de la época, el senador Nigidio Figulo, habría dicho al padre de Augusto el día 
+de su nacimiento que su hijo gobernaría el mundo. Un astrólogo de Apolonia, aunque 
+ignorante de su identidad, se habría rendido ante Augusto cuando se enteró de la hora 
+de su nacimiento25. Suetonio indica que «nació poco antes del amanecer», paulo ante 
+solis exortum (Suet. Aug. 5), como indicando que su nacimiento trajo la luz al mundo, 
+y que «el primer suelo que tocó el recién nacido fue consagrado», aedituum soli, quod 
+primum Divus Augustus nascens [...] consecrareur (Suet. Aug. 5). También se reiere al 
+horóscopo del neonato y al destino que los cielos le prometen. Desde el año 27 se le dio 
+gran importancia a Capricornio26, el signo de su concepción y la hora de su nacimiento 
+coincidentes con la de Rómulo. A esto hay que añadir los sueños de Catulo y Cicerón, 
+mostrando el destino que Júpiter había reservado a Augusto, y con señales de las águilas, 
+señuelos del favor con que el recién nacido gozaba en el cielo27. Estas noticias se com
+23 Suet. Aug. 79, Oculos habuit claros ac nitidos, quibus etiam existimari volebat inesse quiddam 
+divini vigoris, gaudebatque, si qui sibi acrius contuenti quasi ad fulgorem solis uultum summitteret. Texto 
+comentado por Montero Herrero, 2006, pp. 40-41, con bibliografía anterior sobre el fragmento.
+ 24 Martin, 1994, p. 412.
+ 25 Sobre los muchos prodigios relacionados con el nacimiento de Augusto, vid. Suet. Aug. 94, un largo 
+capítulo condensado por Casio Dión: «Atia sostenía irmemente que había quedado encinta de Apolo, ya 
+que estando dormida una vez en su templo creyó yacer con una serpiente y por esta causa dio a luz cuando 
+paso el tiempo preciso. Antes de dar a luz, soñó que sus entrañas subían hasta el cielo y se extendían sobre 
+toda la tierra; esa misma noche, Octavio creyó que salía el sol de las partes pudendas de ella (πρίν τε ἢ 
+ἐς τὸ φῶς ἐξιέναι, ἔδοξεν ὄναρ τὰ σπλάγχνα ἑαυτῆς ἐς τὸν οὐρανὸν ἀναφέρεσθαι καὶ ἐπὶ πᾶσαν τὴν γῆν 
+ἐπεκτείνεσθαι: καὶ τῇ αὐτῇ νυκτὶ καὶ ὁ Ὀκτάουιος ἐκ τοῦ αἰδοίου αὐτῆς τὸν ἥλιον ἀνατέλλειν ἐνόμισεν). 
+Apenas había nacido el niño, cuando Nigidio Figulo, un senador, vaticino para él el poder absoluto (ἄρτι 
+τε ὁ παῖς ἐγεγέννητο, καὶ Νιγίδιος Φίγουλος βουλευτὴς παραχρῆμα αὐτῷ τὴν αὐταρχίαν ἐμαντεύσατο) 
+(Cass. Dio 45.1.2-5). Y es que éste, entre sus contemporáneos, era el que mejor conocía la disposición del 
+irmamento y las diferentes clases de estrellas, cuanto resulta de ellas por sí mismas y cuanto resulta de 
+la relación de unas con otras, en sus conjunciones y en sus disyunciones, y por eso había sido acusado de 
+dedicarse a prácticas clandestinas».
+ 26 Barton, 1995, pp. 33-51; Molnar, 2000, pp. 134-137, sobre la posición de los astros poco antes del 
+amanecer del 23 de septiembre del 63 a.C., momento del nacimiento de Augusto.
+ 27 Cass. Dio 45.2.1-4: «Cuando el niño se criaba en el campo, un águila le arrebató de las manos un 
+trozo de pan y, tras alzar el vuelo, dejándolo caer se lo devolvió. Cuando era todavía un muchacho, pasaba 
+un tiempo en Roma cuando Cicerón soñó que un niño se deslizaba del cielo al Capitolio por unas cadenas 
+de oro y recibía un látigo de Zeus. Cicerón no sabía quién era el niño, pero se lo encontró al día siguiente 
+en el Capitolio y tras reconocerlo, explico a los presentes su visión. El propio Catulo que nunca había visto 
+a Octavio, creyó ver en sueños que todos los hijos de los patricios habían hecho una procesión en honor de 
+Zeus en el Capitolio y que en esta ceremonia, el dios había lanzado una imagen de Roma al seno del niño. 
+162
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ plementan con los augurios que él mismo relató en sus memorias (los doce buitres que 
+saludaron su llegada para su primer consulado y el cometa que apareció en sus juegos) 
+prodigios que muchos explicaron como una predicción del destino del hijo de César28. 
+Suetonio29 recoge otra historia atribuida a un liberto sirio de Augusto que habla de una 
+matanza de inocentes, episodio que también contaría Mateo (2. 116-18)30 relacionándola 
+con el nacimiento de un niño nacido en Belén de Palestina en época de Augusto.
+ Pero lo más importante, como indicamos, es que al tiempo que relatos circulaban, se 
+le rendían realmente y espontáneamente honores a Augusto inspirados por la verdadera 
+fe en sus cualidades divinas. De hecho, era un auténtico libertador que había traído paz y 
+abundancia donde antes había guerra y desolación. Como tal, fue honrado con homenajes, 
+principalmente en Oriente, donde los honores divinos eran tradicionales, pero también 
+en Roma, donde había llegado una gran cantidad de gente procedente de Grecia y de 
+Oriente, que poco a poco, por la mezcla de población, fue matizando (aunque todavía 
+sin llegar a descomponer) la religión romana tradicional de raíz itálica. 
+El texto, como hemos visto, insiste en el concepto de la paz augustea, y creo que 
+no se ha advertido un hecho importante en relación con este hecho: la consagración en 
+Roma, el 30 de enero del año 9 del Ara Pacis, símbolo culmen del ideario augusteo de 
+paz, prosperidad y justicia, que es justamente lo que se proclama en los textos epigráicos 
+que tratamos aquí. Es decir, que desde el momento de los inicios de las obras del altar 
+de la Paz en Roma y el momento de su consagración ya se había tomado en Roma la 
+decisión de difundir por todas las provincias del Imperio la idea motriz de la Paz Augusta.
+ 2. ‘Aλικαρναςςος Πoλις καριας
+ El segundo documento que presentamos es una estela de mármol blanco, custodiada en 
+el British Museum, hallada en Halicarnaso31 (Fig. 4), la actual en Bodrum (Turquía). Se 
+Sorprendido por este sueño, acudió al Capitolio para hacer ofrendas al dios, y al encontrar allí a Octavio 
+que había subido por una u otra razón, comparó su imagen con la del sueño y se aseguro de la veracidad de 
+su visión». Sobre otros prodigios relacionados con el nacimiento de Augusto, vid. Suet. Aug. 94.
+ 28 L. Ross Taylor, 1931, pp. 233-234.
+ 29 Suet. Aug. 94: «Según cuenta Julio Marato, pocos meses antes de su nacimiento se produjo en Roma, 
+a la vista de todos, un prodigio que anunciaba que la naturaleza estaba a punto de parir un rey para el pueblo 
+romano; aterrado, el Senado decreto que no se criara a ningún varón nacido aquel año» (Auctor est Iulius 
+Marathus, ante paucos quam nasceretur menses prodigium Romae factum publice, quo denuntiabatur, regem 
+populo Romano naturam parturire; senatum exterritum censuisse, ne quis illo anno genitus educaretur).
+ 30 Al episodio alude también Macrobio, Sat. II, 4, 11, relacionando la muerte de Antípatro con la 
+matanza de los betlemitas. Sobre el valor de esta fuente y noticia remito al estudio de Granados Fernández, 
+1981.
+ 31 Newton, 1863, p. 695, nº 6; Ehrenberg y Jones, 19552, pp. 83-84 (nº 98a); Hirschfeld, 1916; Grant, 
+1957, pp. 174-175 (traducción parcial); Eliade, 1978, pp. 469-470 (trad. parcial); Freis, 1984, p. 17; McCabe, 
+1991, Halikarnassos nº 4; citatur in: Blümel, Merkelbach y Rumscheid, 2014, I, nº 14 (texto), II, pp. 39-40. 
+El monumento procede de las excavaciones de Sir Charles Thomas Newton en Bodrum. Dimensiones: altura, 
+130.03 cm; anchura, 53.34 cm; fondo, 15.24 cm Adquirido por el British Museum en 1859; reg. nº 1859, 
+1129.64.
+ 163
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Figura 4. Inscripción de Halicarnaso. British Museum.
+ 164
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ data en el año 2 a.C. Es una inscripción que debía tener 55 líneas de escritura en griego, 
+de las que faltan 12 en la parte central. Se trata probablemente de una copia de un decreto 
+conjunto emitido por los griegos de Asia en los que daban la bienvenida, honrándolo, 
+a Gayo César, el nieto de Augusto, adoptado por este como «hijo» tras la muerte de su 
+padre, Agripa. Gayo fue enviado a Oriente por Augusto en misión diplomática y militar. 
+A los principes Gayo y Lucio, se les homenajea en algunas ciudades como dioses o 
+asociados a la divinidad de Augusto32.
+ La primera parte del texto, conservado en las líneas 2-13, es un elogio de Augusto, 
+y por eso nos interesa ahora:
+ 2
+ 5
+ 10 
+15 
+20 
+33 
+35 
+[ – ].c.5.[ – ]
+ [ἐ]πεὶ ἡ αἰώνιος καὶ ἀθάνατος τοῦ παντὸς φύσις τὸ [μέ]
+[γ]ιστον ἀγαθὸν πρὸς ὑπερβαλλούσας εὐεργεσίας ἀνθρ[ώ]
+ποις ἐχαρίσατο, Καίσαρα τὸν Σεβαστὸν ἐνεν[κ]αμένη [τ]ὸ[ν]
+ τῷ καθ’ ἡμᾶς εὐδαίμονι βίωι πατέρα μὲν τῆς [ἑαυ]τοῦ πα
+τ[ρ]ίδος θεᾶς Ῥώμης, Δία δὲ πατρῶον καὶ σωτῆρα τοῦ κο[ι]
+[ν]οῦ τῶν ἀνθρώπων γένους, οὗ ἡ πρόνοια τὰς πάντων [ἐλπί]
+[δ]ας οὐκ ἐπλήρωσε μόνον ἀλλὰ καὶ ὑπερῆρεν· εἰρηνεύο[υ]
+[ς]ι μὲν γὰρ γῆ καὶ θάλαττα, πόλεις δὲ ἀνθοῦσιν εὐνομία[ι]
+ ὁμονοίαι τε καὶ εὐετηρίαι, ἀκμή τε καὶ φορὰ παντός ἐστι[ν]
+ [ἀ]γαθοῦ, ἐλπίδων μὲν χρηστῶν πρὸς τὸ μέλλον, εὐθυμία[ς]
+ [δ]ὲ εἰς τ[ὸ] παρὸν τῶν ἀνθρώπων ἐνπεπλησμένων ἀγῶ
+[ς]ιν κἀ[ναθή]μασιν θυσίαις τε καὶ ὕμνοις τὴν ἑαυτῶν
+ [ – ]το.c.3.ν.c.3.λ̣ολεων δ’ ὁ θεὸς εἰσα
+ [ – ] ἀνέστακε το[ – ]
+ [ – ]ν.c.2.αζουσα[ – ]
+ [ – ]ομαθ?[ – ]
+ [ – ]νανε[ – ]
+ [ – ]ποσ[ – ]
+ [ – ]τινα[ – ]
+ [ – ].c.4.[ – ]
+ [ – ]ωνν[ – ]
+ [ – ]πα[ – ]
+ [ – ]ω[ – ]ατ[ – ]
+ [ – ].c.2.[ – ]
+ [ – ]στη[ – ]
+ [FALTAN 12 LÍNEAS]
+ 32 Por ejemplo, en Halasarna, la ciudad levanta un altar a Gayo como hijo del «nuevo dios Augusto» 
+(IGRRP IV, 1094): ὁ δᾶμος ὁ Ἁλασαρνιτᾶν Γαΐωι Ἰουλίωι θεοῦ Σεβαστοῦ υἱῶι Καίσαρι νέωι θεῶι τὸν [βω]
+ μόν. En un texto fragmentario de Mylasa un sacerdote de Roma y de Augusto asocia al culto imperial a los 
+jóvenes Gayo y Lucio, el primero posiblemente como «nuevo Marte» (I.Myl. 135): [ – ] / [κ]λῆς Μηνᾶς 
+Εὐίππου κατὰ δὲ υἱο[θεσίαν – ] / στος ἱερεὺς Λευκίου Μουνατίου [Πλάγκου καὶ Θεᾶς Ῥώμης] / ἀπεγράψαντο 
+ἔφοδον εἰς βουλὴν κα[ὶ ἐκκλησίαν ποιούμενοι·] / ἐπεὶ Ἀετίων Φανίου [Τ]αρ̣μου ἱερεὺ[ς Αὐτοκράτορος] / 
+Καίσαρος Σεβαστοῦ καὶ τῆς Γα[ΐου Ἰουλίου Καίσαρος,] / τῆς νεότητος ἡγεμόνος, νέο[υ Ἄρεος – ] / καὶ τῆς 
+Λευκίου Ἰουλίου Καίσαρο[ς, τῶν Καίσαρος τέ]κνων, etc.
+ 165
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ 40 
+45 
+50 
+[ – ]πολ.c.2.σμ[ – ἀναγρα]
+[φῆναι δὲ ἀντίγρα]φον [τ]οῦδε τοῦ ψηφίσματ[ος]
+ [καὶ τεθῆναι ἐν τῷ] τεμένει τῆς Ῥώμης καὶ τ[οῦ]
+ [Σεβαστοῦ ὑπ]ὸ [τοῦ] ἀρχιερέως Γαΐου Ἰουλίου Μ[ – ] 
+[.c.2. τ]ο[ῦ] φιλοκαίσαρος, ἐν δὲ ταῖς ἄλλαις πόλ[εσι] 
+[ὑπὸ τ]ῶν ἀρχόντων· καθιερωθῆναι δὲ τ[οὺς βωμοὺς?] 
+[ἐ]ν τῆι πρὸ ἑπτὰ καλανδῶν Δεκε[μβρίων ἡμε]
+[ρ]ῶν [ὑ]πό τε ἱερέων καὶ ἀρχι̣[ερέων – ] 
+[ἑ]ορταζόντων τῶν ἀν[θρώπων – ] 
+[ – ]νι τὴ[ν δὲ] ἡμέραν ταύ[την – ] 
+[ – ]ν[ – ε]ἶναι τοὺς ε[ – ] 
+[ – ]η[ – ] φιλοκα[ίσαρ – ] 
+[ – ]ο[ – ]σμα[ – ] 
+[ – ]αστω[ – ] 
+[ – ]οτε[ – ] 
+[ – ]ενητ[ – ] 
+55 [ – ψ]ήφισμ[α – ]
+ [2-14] La naturaleza eterna e inmortal del universo ha perfeccionado sus inmensos be
+neicios a la humanidad otorgándonos un beneicio supremo para nuestra felicidad y 
+bienestar: César Augusto, Padre de su propia Patria, la divina Roma, Zeus Paterno y 
+Salvador de toda la raza humana, en quien la Providencia no sólo ha cumplido, sino que 
+ha sobrepasado las plegarias de todos los hombres. Mar y tierra están en paz, las ciudades 
+lorecen bajo el imperio de la ley en mutua armonía y prosperidad. Todos están en la 
+cumbre de la fortuna y abundan en riquezas. La humanidad entera está llena de alegres 
+esperanzas para el futuro y contenta por el presente: Por ello, [es conveniente honrar al 
+dios] con juegos públicos y con estatuas, con sacriicios e himnos.
+ Salvada la laguna del texto, solo son medianamente reconstruibles con cierta sintaxis 
+coherente unas siete líneas, de las que se propone esta lectura:
+ [40-47] [Una copia] de la decisión tomada por los presentes [debe ser inscrita y colocada 
+en el templo] de Roma y [de Augusto] bajo la supervisión del jefe de los sacerdotes Caius 
+Iulius M[...], … amigo de César (φιλοκαίσαρος), en las otras ciudades [de] los magistra
+dos; [los altares] deben ser consagrados … siete días antes de las calendas de diciembre, 
+por los sacerdotes y los magistrados… los hombres deben celebrar [...].
+ En líneas 8-9, el texto dice, sumariamente: εἰρηνεύο[υσ]ι μὲν γὰρ γῆ καὶ θάλαττα («El 
+mar y la tierra están en paz».
+ La paciicación de la tierra y el mar, mencionada en el texto, aparece en tres ocasiones 
+en las Res Gestae, recordando sus éxitos militares y la paciicación de todo el orbe33, 
+33 R.G. 3.1: Bella terra et mari civilia externaque toto in orbe terrarum saepe gessi victorque omnibus 
+166
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ como evidencian las expresiones reiterativas sobre su dominio universal en estos pasajes. 
+En la versión griega de las Res Gestae, el sentido ecuménico del dominio de la tierra y 
+del mar por parte de Augusto está aún más clara: κατὰ γῆν καὶ κατὰ θάλασσαν... ἐν ὅλῃ 
+οἰκουμένη (R.G. 3.1).
+ Pero la sorpresa es aún mayor cuando vemos en R.G. 13 la expresión εἰρηνευομένης... 
+πάσης γῆς τε καὶ θαλάσσης, semejante al εἰρηνεύο[υσ]ι μὲν γὰρ γῆ καὶ θάλαττα de la 
+inscripción de Priene.
+ En ambos casos, la inscripción del Priene (del año 9 a.C.) y las Res Gestae (redactadas 
+en el 14 d.C.) tienen en común el hecho de ilustrar, con palabras casi idénticas, un tópico 
+de la propaganda política augustea, puesta en boca ajena o propia: el mérito del primer 
+emperador como factótum de la pax romana conseguida terra marique, como constatan, 
+entre otras fuentes, las inscripciones de Halicarnaso y Myra34.
+ 3. Μυρεων Πολις ’εν λυκιαι κολΠος ’εςτι
+ La ciudad de Myra, situada en la bahía al sur de Licia, es bien conocida por sus llamati
+vas tumbas rupestres. Conserva un magníico teatro romano ―que fue destruido por un 
+terremoto en el año 141―, unas termas y otros muchos monumentos.
+ Según Estrabón (XIV, 665), la ciudad formó parte de una «alianza» de ciudades 
+licias entre los años 168 a.C. y 43 d.C. Su puerto parece que fue un punto de repostaje 
+importante para viajes de mercancías y también para el ejército35. Germánico visitó la 
+ciudad en el año 18 d.C.
+ En un pedestal de una estatua dedicada a Augusto36, se leen estas cinco líneas:
+ veniam petentibus civibus peperci («Hice a menudo la guerra, por tierra y por mar. Guerras civiles y contra 
+extranjeros, por todo el universo»). R.G. 4.3: Ob res a me aut per legatos meos auspicis meis terra marique 
+prospere gestas quinquagiens et quinquiens decrevit senatus supplicandum esse dis immortalibus («Por los 
+éxitos obtenidos por mí (o por mis legados al mando bajo mis auspicios), tanto por tierra cuanto por mar, el 
+Senado decretó acciones oiciales de gracias a los dioses inmortales en cincuenta y cinco ocasiones». R.G. 
+13: cum per totum imperium populi Romani terra marique esset parta victoriis pax («cuando en todos los 
+dominios del pueblo romano se hubiera establecido victoriosamente la paz, tanto en tierra como en mar»). 
+Sobre el dominio del mar, añádase R.G. 25 y 26; Suet., Aug. 22, 1: Ianum Quirinum semel atque iterum a. 
+condita Urbe ante memoriam suam clausum in multo breviore spatio terra marique pace parta ter clusit; 
+Varr., L.L, 5, 165; Vell. 2, 38, 3: terra marique…, parta... pax.
+ 34 Pero no son las únicas. En la ciudad de Fanagoria, en el Bósforo, la reina Dínamis, amiga de Roma, 
+ensalza a Augusto con estas palabras: [Α]ὐτοκράτορα Καίσαρα θεὸν [θ]εοῦ υἱὸν Σεβαστὸν τὸν ἑαυτῆς [σ]
+ ωτῆρα καὶ εὐεργέτην [β]ασίλισσα Δ[ύνα]μις φιλορώμαιο[ς] (IGRRP, I, 901).
+ 35 Eliano, Hist. anim. XII, 1, recuerda una curiosa leyenda asociada a esta ciudad, que tenía una fuente 
+y un templo dedicado a Apolo. La fuente tenía unos peces prodigiosos, «oraculares», que conocían la voz del 
+sacerdote de Apolo, que les proporcionaba comida. Dependiendo de si estos peces comían de buen grado la 
+carne de las vacas sacriicadas, o si, al contrario, la rechazaban, la consecuencia era aplacar o despertar la 
+cólera del dios.
+ 36 Petersen y von Luschan, 1889, p. 43, nº 78; IGRRP 719; Ehrenberg y Jones, 19552, p. 72 nº 72; 
+Schuler, 2007, pp. 383-403 (= SEG 157, 1665 = AE 2007 [2010] 1505); citatur in Blümel, Merkelbach y 
+Rumscheid, 2014, I, nº 14 (texto), II, p. 39.
+ 167
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Texto que entendemos así:
+ Θεὸν Σεβαστὸν θεοῦ υἱο[ν]
+ Καίσαρα αὐτοκράτορα γῆς
+ 3 καὶ θαλάσης, τὸν εὐεργέτη[ν]
+ καὶ σωτῆρα τοῦ σύνπαντο[ς]
+ κόσμου Μυρέων ὁ δῆμος.
+ Al dios Augusto, hijo del dios 
+César, imperator de la tierra  
+y del mar, benefactor 
+y salvador de absolutamente todo 
+el mundo, el pueblo de Myra.
+ Esta sencilla inscripción ―de cronología imprecisa, entre el 19 y el 8 a.C. posible
+mente― repite el léxico, y el sentido, de las anteriores, salvo en el uso del raro adje
+tivo σύνπαντος, un término ausente en fuentes literarias y relativamente frecuente en 
+epigrafía37 y papiros38. Aparece sorpresivamente dos veces en los Papiros Griegos de 
+Magia39, con acepciones dan al texto de Myra un sentido de dimensión político-religiosa 
+omnímoda. El signiicado de «completa/absoluta totalidad», unido al que se colige de los 
+37 Particularmente en las construcciones τοῦ σύνπαντος οἴκου (Attica, IG II/III2 1 , nº 1074 lin. 8; IG 
+X 2,1, nº 138, lin. 6), IG X 2,1, nº 141, lin. 6; IGBulg. III,1, nº 1323, lin. 3); τοῦ σύνπαντος αὐτῶν οἴκου 
+(IGBulg. III, 1, nº1452, lin. 3; IGBulg. III, 2, nº 1591, lin. 7; IGBulg. III, 2, nº 1690, a, 6; Inscr. Scythiae 
+Minoris II, 1, nº 87, lin. 7; Inscr. Scythiae Minoris II, 1, nº 193, lin. 5; Inscr. Scythiae Minoris II,2, nº 82, 
+cara A, lin. 10; Inscr. Scythiae Minoris II, 2, nº 83, lin. 9); τοῦ σύνπαντος ξυστοῦ (IG V,1, nº 669, lin. 7); 
+similares.
+ τοῦ σύνπαντος̣ δάμου (IG XII,1, nº 1035, lin. 11); etc. Hay una veintena de inscripciones con construcciones 
+38 P.Berlin 13, lin. 17: το]ῦ νομοῦ σύνπαντος; POxy. 3164, lin. 8: τοῦ σύνπαν̣τος αὐτοῦ οἴκου τύχης; 
+POxy. 3781, lin. 3: οῦ σύνπ̣α̣ν̣τ̣(ος) ἀνθρώπων; SB 3924, lin. 39: τοῦ σύνπαντος τῶν ἀνθρώπων γένους; 
+Wilcken, Chrest., 490 rp. 23: τοῦ σύνπαντος οἴκου; PapAgon. 6 rp. 97: ὁ ἀρχιε[ρ]εὺς τοῦ σύνπαντος. En 
+un fragmento papiráceo de Herculano (P.Herc. 176), de tema epicúreo. Vid. Vogliano, 1928, fr. 5, col. 25, 
+líneas 30-31: (εἰς) [π]αρρη[σί]α[ν̣ π]ερ[ὶ] τοῦ / (σύν̣)[π]αντος ἀ[γ]ῶνος.
+ 39 PGM VII, 687, en una invocación a la Osa Mayor: ’Ἄρκτε, Ἄρκτε, ἄρχουσα τοῦ οὐρανο[ῦ] καὶ τῶν 
+ἄστρων καὶ τοῦ σύνπαντος κόσμου, ἡ στρέφουσα τὸν ἄξονα καὶ κρατοῦ[σα τοῦ ὅ]λου συστήματος βίᾳ... 
+«Osa, Osa, que eres señora del cielo y de las estrellas y de todo el cosmos; tú haces girar el eje y ejerces 
+tu poder sobre todo el conjunto celeste con fuerza...»; y poco más adelante en el mismo documento, PGM 
+VII, 880, en una invocación a Selene: ’ἐπικαλοῦμαί σε, δέσποινα τοῦ σύνπαντος κόσμου, καθηγουμέν<η 
+συστήματ>ος τοῦ σύμπαντος, θεὰ μεγαλοδύναμε... «Te invoco, señora del cosmos entero, guía de todo el 
+sistema, diosa de gran poder...».
+ 168
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ textos anteriores, da sentido a las palabras con las que Estrabón concluye su libro sexto, 
+haciendo un memorándum de las conquistas romanas y hablando del mismo Augusto:
+ [...] χαλεπὸν δὲ ἄλλως διοικεῖν τὴν τηλικαύτην ἡγεμονίαν ἢ ἑνὶ ἐπιτρέψαντας ὡς πατρί. 
+οὐδέποτε γοῦν εὐπορῆσαι τοσαύτης εἰρήνης καὶ ἀφθονίας ἀγαθῶν ὑπῆρξε Ῥωμαίοις καὶ 
+τοῖς συμμάχοις αὐτῶν, ὅσην Καῖσάρ τε ὁ Σεβαστὸς παρέσχεν.
+ [...] resulta difícil administrar un poder semejante [en el territorio imperial] si no recae en 
+manos de un solo hombre como si fuera un padre. De hecho, jamás tuvieron los romanos 
+y sus aliados la posibilidad de disfrutar de una paz semejante y una abundancia de bienes 
+como la que les ha reportado César Augusto tras haber asumido el poder absoluto (Str. 
+VI, 4, 2).
+ Los textos epigráicos de Asia proclaman la divinidad de Augusto sin ambages. Y se 
+dirigen a él no con el frío formulismo epigráico de las inscripciones del Occidente 
+romano, sino con la exuberante verbosidad de la literatura laudatoria griega, estable
+ciendo mediantes las palabras ―y los hechos, las leyes― unοs juramentοs sagrados de 
+idelidad a la persona del príncipe-dios. Es un concepto que no debe extrañarnos, pues 
+lo encontramos también en la poesía. O si no, veamos el juramento que hace el poeta 
+Ovidio dirigiéndose al princeps, desde el exilio, en Trist. II, 53-60:
+ Juro por el mar, por las tierras, por las divinidades de los tres mundos40, por ti, dios 
+protector y visible (per mare, per terras, per tertia numina iuro, per te praesentem 
+conspicuumque deum), que mi ánimo ha sido siempre favorable a ti, el más grande de 
+los hombres, y que con mi mente, que es con lo único que pude, fui siempre tuyo. Yo 
+he deseado que tu ingreso en los astros celestes fuera tardío y formé una mínima parte 
+de la muchedumbre que hacía esta misma súplica; por ti ofrecí piadosamente incienso 
+y, formando un todo con los demás, yo mismo también secundé los votos públicos con 
+los míos.
+ Las palabras de Ovidio en este fragmento, puesto en primera persona son impresionantes: 
+tras un juramento, le muestra respeto, sumisión («fui siempre tuyo», asegura) y devoción, 
+pues hace ofrendas y secunda votos públicos en honor del emperador.
+ Esta idea de la sumisión al hombre divinizado se percibe todavía más rotundamente 
+en un texto de Gangra, antigua Neapolis, en Palagonia41. La inscripción, verdaderamente 
+excepcional, transmite la prestación de un juramento, mezcla de la fórmula de juramento 
+40 Esta invocación sincrética a los tertia numina habría que traducirla así: «por el dios del cielo, el del 
+mar, y el del inierno». El poeta alude al reparto por sorteo del universo entre Zeus, Posidón y Hades tras 
+vencer a su padre Cronos y a los Titanes. Siguiendo el relato de Homero, Il, XV, 187-193, Zeus recibe su 
+reino celestial, Posidón el marino, y Hades el de las tinieblas.
+ 41 OGIS 532; ILS 8781; Cumont, Anderson y Grégoire, 1910, nº 66, 4; Ehrenberg y Jones, 19552, pp. 
+145-146 (nº 315); Freis, 1984, p. 10 (nº 7); Bringmann, 2008, p. 235 (trad. parcial) y p. 310 n. 99.
+ 169
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ civil helenístico y el sacramentum militar romano occidental. A los españoles el texto 
+siguiente nos recordará la práctica de la devotio impropiamente llamada «ibérica». El 
+documento se data el 6 de marzo (ἔτους τρίτου, π[ροτέραι] νωνῶν Μαρτίων) del año 
+6 a.C., «siendo Augusto, hijo del divinizado César, cónsul por XII vez (Αὐτοκράτορος 
+Καίσ[αρος] θεοῦ υἱοῦ Σεβαστοῦ ὑπατεύ[σαντος τὸ] δωδέκατον). En las primeras líneas 
+se indica que el documento se genera en Gangra, ἐν Γάνγροις, ¿en el campamento? (ἐν 
+[κ]ά[στροις?), donde realizan un juramento los negotiatores que viven en las colonias 
+de Palagonia y de los ciudadanos romanos allí presentes (ὅρκος ὁ τελεσθεὶς ὑ]πὸ τῶ[ν] 
+κατοικ[ούντων Παφλαγονία[ν καὶ τῶν πραγ]ματευομ[ένων πα]ρ’ αὐτοῖς Ῥ[ωμαίων])». 
+El texto del juramento dice así, en las líneas 8-35:
+ ὀμνύω Δία Γῆν Ἥλιον θεοὺς πάντα[ς καὶ πά]/σας καὶ αὐτὸν τὸν Σεβας[τ]ὸν εὐνοή[σειν 
+Καί]/10σαρι Σεβαστῶι καὶ τοῖς τ[έκ]νοις ἐγγό[νοις τε] / αὐτοῦ πάν[τ]α τ[ὸ]ν τοῦ [βίου] 
+χρόνον κ[αὶ λό]/γωι [κ]αὶ ἔργωι καὶ γνώμη[ι, φί]λους ἡγού[μενος]/ οὓς ἂν ἐκεῖνοι 
+ἡγῶντα[ι] ἐκχθρούς ἐχθρούς τε ν[ομίζων] / οὓς ἂν αὐτοὶ κρίνωσιν· ὑπέρ τε τῶν τ[ούτοις] / 
+15 διαφερόντων μήτε σώματος φείσες[θαι μή]/τε ψυχῆς μήτε βίου μήτε τέκνων, ἀλ[λὰ παν]/
+ τὶ τρόπωι ὑπὲρ τῶ[ν] ἐκείνοις ἀνηκό[ντων] / πάντα κίνδυνον ὑπομενεῖν· ὅ τί τε ἂ[ν αἴς]/
+ θωμαι ἢ ἀκούσω ὑπεναντίον τούτ[οις λε]/20γόμενον ἢ βουλευόμενον ἢ πρασσό[μενον], / 
+τοῦτο ἐγμηνύσειν τε καὶ ἐχθρὸν ἔς[εσθαι τῶι] / λέγοντι ἢ βουλευομένωι ἢ πράσσο[ντί τι 
+τού]/των· οὕς τε ἂν ἐκχθροὺς ἐχθροὺς αὐτοὶ κρίν[ωσιν, τού]/τους κατὰ γῆν καὶ θάλασσαν 
+ὅπλο[ις τε] / 25 καὶ σιδήρωι διώξειν καὶ ἀμυνεῖς[θαι]. / ἐὰν δέ τι ὑπεναντίον τούτωι τ[ῶι 
+ὅρκωι] /ποήσω ἢ μὴ στοιχούντως καθὼ[ς ὤμο]/σα, ἐπαρῶμαι αὐτός τε κατ’ ἐμοῦ καὶ 
+σ[ώμα]/τος τοῦ ἐμαυτοῦ καὶ ψυχῆς καὶ βίου κα[ὶ τέ]/30κνων καὶ παντὸς τοῦ ἐμαυτοῦ 
+γέν[ους] / καὶ συνφέροντος ἐξώλειαν καὶ παν[ώλει]/αν μέχρι πάσης διαδοχῆς τῆς ἐ[μῆς 
+καὶ] / τῶν ἐξ ἐμοῦ πάντων, καὶ μήτε σ[ώματα τὰ] / τῶν ἐμῶν ἢ ἐξ ἐμοῦ μήτε γῆ μ[ήτε 
+θάλας]/35σα δέξαιτο μηδὲ καρποὺς ἐνέγ[κοι αὐτοῖς].
+ Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por 
+el mismo Augusto, que durante toda mi vida seré leal a César Augusto, a sus hijos y 
+descendientes de palabra, de obra y de sentimiento, porque consideraré mis amigos a los 
+que él considere amigos, y enemigos míos a los que él considere enemigos; y que por su 
+causa no ahorraré ni mi integridad corporal ni mi vida ni mi fortuna ni mis hijos, sino que, 
+para cumplir las obligaciones sobre ellos recaídas, asumiré sobre mí cualquier peligro; y 
+que si yo advirtiera u oyera que contra él se dice, planea o hace algo, lo denunciaré y me 
+convertiré en enemigo del que tal dice, planea o hace; y que a aquellos que se consideren 
+enemigos suyos los perseguiré y castigaré por tierra y mar con armas y espada. Y si yo 
+hago algo que vaya contra este juramento o no esté de acuerdo con las obligaciones que 
+de él derivan, pido la ruina y la aniquilación plena para mi persona, calamidad para mi 
+integridad corporal y la de toda mi familia hasta el día de mi muerte y la de mis hijos, 
+y que ni el mar ni la tierra acojan los cuerpos de los míos ni de mis descendientes ni les 
+den sus frutos.
+ Esta conducta de reverencia hacia el emperador divino se hace a nivel privado (texto de 
+Gangra) y también a  nivel público (político). Como recuerda Bringmann oportunamente, 
+170
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ «las Asambleas provinciales, las ciudades en Oriente y en Occidente, las asociaciones 
+y la gente privada competían por mostrar su veneración al salvador del mundo. … La 
+veneración de la potencia divina que, según una concepción extendida, se ponía de 
+maniiesto en la acción bienhechora de Augusto, se completó con la obligación colectiva 
+que se autoimpuso la población de favorecer con todos sus medios el bienestar de su 
+persona y de su casa»42. Augusto, como Júpiter, supervisa el orbe que depende de él, 
+ocupándose de los asuntos importantes, como dice Ovidio43.
+ Por tanto, Augusto, haciendo política ―en realidad política religiosa o religión poli
+tizada― había jugado la baza irracional de los sentimientos de afecto hacia su persona, 
+vehiculados a través de las muestras públicas y ceremoniales. La clave del éxito fue haber 
+perpetuado siempre el recuerdo de la amenaza en que se encontraba la República tras la 
+muerte de César (año 44) y la batalla de Actium (año 31). Vencidos los enemigos, por 
+él mismo, y desde el principio, Octavio-Augusto se exhibe como Salvador. Y al mismo 
+tiempo que se perpetúa el recuerdo del peligro de antaño, se insiste en los beneicios de 
+la paz de hogaño.
+ Es un estado de solaz prosperidad y estabilidad política que Winstrand denomina 
+«felicitas imperatoria», que en el caso de Augusto no está exenta de cierto carácter 
+«mesiánico» en el sentido político que apunta este autor44.
+ Augusto sembró la idea política ―expresada y difundida a través de la literatura, del 
+arte y de la religión― de que «solo alguien con cualidades superiores a las de un mero 
+hombre» es capaz de tal hazaña45. Esta idea seminal heroica está ya claramente expresada 
+en la Eneida. Solo cabía dejar que la semilla fructiicase, y que se multiplicara para luego 
+recoger la cosecha. Por otro lado, la idea de un «superhombre» (muchos siglos antes de 
+ser formulada ilosóicamente por Nietzsche), o de un hombre carismático, ya existía en 
+la esfera religiosa en las monarquías helenísticas, asociando la realeza a la divinidad46. 
+42 Bringmann, 2008, p. 234.
+ 43 Trist. II, 215-219: utque deos caelumque simul sublime tuenti non vacat exiguis rebus adesse Iovi, 
+de te pendentem sic dum circumspicis orbem, effugiunt curas inferiora tuas.
+ 44 Winstrand, 1987, p. 58: «We have found that the felicitas ascribed to Augustus is twofold. There 
+is the military felicitas, connected with imperium and auspicium, which derives its original form from the 
+ancient felicitas of magistrates but has received a new and heightened signiicance through the Emperor’s 
+monopoly of imperium and auspicium and because of the inluence of the conception of a personal Fortuna. 
+But there is also the ‘Messianic’ felicitas, the felicitas of Augustus as the heaven-sent creator of a new 
+Golden Age. This felicitas is not, in essence, military. Pax, iustitia and abundantia are regular features of 
+the felicitas saeculi. But a great victory ending all wars is generally considered a condition requisite for the 
+blissful reign of peace, justice and prosperity. The former kind of felicitas is connected with the dies imperii 
+of Augustus, the latter with his birthday».
+ 45 Bringmann, 2008, p. 232: «El régimen de Augusto orientado a la implantación del derecho y la justicia 
+encontraba más adhesiones de lo que permite suponer [...] La gratitud al «salvador de la humanidad» tuvo su 
+plasmación, según el uso de la Antigüedad, en un torrente de homenajes. Su punto culminante lo encontró 
+en el llamado culto al Emperador. Éste hundía sus raíces en la idea extendida en el Oriente helenístico de 
+que en una actuación beneiciosa que excediera el rasero humano corriente se ponía de maniiesto una fuerza 
+sobrehumana, divina. Con esa clase de culto habían sido venerados los reyes helénicos, y desde que Roma 
+accedió al papel de poder universal, en el Oriente conoció culto divino no sólo dicho poder, sino también 
+sus representantes».
+ 46 Sobre el culto a los reyes en las monarquías helenísticas como fundamento político del culto imperial 
+romano, Price, 1984, pp. 23-52; Gascó, 1990, pp. 87-92; Sartre 1994, pp. 110-118.
+ 171
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ De ahí que, con toda naturalidad, en Asia, las ciudades y sus magistrados no muestren 
+rubor alguno al considerar oicialmente a Augusto como Dios viviente ―las inscripciones 
+que hemos visto son documentos oiciales―, pero lo mismo puede decirse de los votos 
+privados que exhiben si cabe aún más piedad. Ningún humano podía aspirar a algo más 
+sublime; a ser Dios y, aun más, un dios que se jacta, gozoso, de haber traído al mundo 
+entero la Paz47. Conscientemente o no, Augusto había hecho realidad la utopía escrita 
+por Cicerón en el Sueño de Escipión.
+ BIBlIogrAfíA
+ Atkinson, K. M. T., «The Governor of the Province Asia in the Reign of Augustus», 
+Historia, 7, 1958, 300-330.
+ AE = L‘Année Epigraphique, Paris 1888ss.
+ Baeza Angulo, E., Ovidio: Tristezas. Pónticas, Akal, Tres Cantos, 2010.
+ Barton, T., «Augustus and Capricorn: Astrological Polyvalence and Imperial Rhetoric», 
+Journal of Roman Studies, 85, 1995, pp. 33-51.
+ Blümel, W., Die Inschriften von Mylasa, vol. 1. Die Inschriften der Stadt; vol. 2. Die 
+Inschriften aus der Umgebung der Stadt («Inschriften griechischer Städte aus Klei
+nasien», 34-35), R. Habelt, Bonn, 1987-1988.
+ Blümel, W., Merkelbach, R. y Rumscheid, F., Die Inschriften von Priene, R. Habelt, 
+Bonn, 2014 (2 vols.).
+ Boffo, L., Iscrizioni greche e latine per lo studio della Bibbia (Biblioteca di storia e 
+storiograia dei tempi biblici, 9), Paideia Editrice, Brescia, 1994.
+ Bowersock, G. W., Augustus and the Greek World, Clarendon Press, Oxford, 1965.
+ Bringmann, K., Augusto, Herder, Barcelona, 2008.
+ Bringmann, K. y Schäfer, Th., Augustus und due Begründung des römischen Kaisertums, 
+Akademie Verlag, Berlin 2002.
+ Cagnat, R. et alii, Inscriptiones Graecae ad Res Romanas Pertinentes, Ernest Leroux, 
+Paris, 1906-1927.
+ Canfora, L., Augusto iglio di Dio, Laterza, Bari/Roma, 2015.
+ Chapot, V., La province romaine proconsulaire d’Asie, depuis ses origines jusqu’à la 
+in du Haut-Empire, Librairie Emile Bouillon, Paris, 1904 (reimpr. «L’Erma» di 
+Bretschneider, Roma, 1967).
+ CIG = Corpus Inscriptionum Graecarum, Berlin 1825-1877.
+ Cumont, F., Anderson, J. G. C. y Grégoire, H., Studia Pontica III. Recueil des inscriptions 
+grecques et latines du Pont et de l’Arménie. Studia Pontica. Vol. 3, H. Lamertin, 
+Bruxelles, 1910.
+ Deissmann, A., Licht vom Osten. Das Neue Testament und die neuentdeckten Texte der 
+47 Proclamada, entre otros muchos textos, en este de Myrina Caesarea, fechada después del 9 a.C.: 
+ὁ δῆμος / ὁ Καισαρέων Μυρειναίων / Αὐτοκράτορι Καίσαρι θεῷ, / υἱῷ θεοῦ, Σεβαστῷ, ὑπὲρ / Εἰρήνης 
+Σεβαστῆς / καθιέρωσεν. (IGRRP, IV, 1173).
+ 172
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ hellenistisch-römischen Welt, J. C. B. Mohr, Tübingen 1909.
+ Dittenberger, W., Orientis Graeci Inscriptiones Selectae (OGIS), vol. II, Leipzig, 1905.
+ Eliade, M., Historia de las creencias y de las ideas religiosas. IV. Las religiones en sus 
+textos, Cristiandad, Madrid 1978.
+ Ehrenberg, V. y Jones, A. H. M., Documents Illustrating the Reigns of Augustus and 
+Tiberius, Clarendon Press, Oxford, 19552.
+ Freis, H., Historische Inschriften zur römischen Kaiserzeit: von Augustus bis Konstantin, 
+Wissenschaftliche Buchgesellschaft, Darmstadt, 1984.
+ Gaertringen, F. v. et alii, Inschriften von Priene, Druck und verlag von Geor Reimer, 
+Berlin, 1906.
+ Gascó, F., Ciudades griegas en conlicto (s. I-III d.C.), Ediciones Clásicas, Madrid, 1990.
+ Granados Fernández, C., «¿Mateo evangelista en Macrobio, Sat. II, 4, 11?», Emerita, 
+49, 1981, pp. 361-363.
+ Grant, F. G. (ed.), Ancient Roman Religion, The Liberal Arts Press, Nueva York, 
+1957. 
+Habicht, Chr., «Die augusteische Zeit und das erste Jahrhundert n. Chr.», en W. den Boer 
+(ed.), Le culte des souverains dans l’Empire Romain, Entretiens Fondation Hardt, 
+Vandoeuvre/Ginebra, 1973, pp. 41-99.
+ Hirschfeld, F. H., The Collection of Greek Inscriptions in the British Museum, part IV, 
+Knidos, Halikarnassos and Branchidae, Clarendon Press, Oxford, 1916 (reproducción 
+anastática: Cisalpino/La Goliárdica, Milano, 1979).
+ IGRRP = Vid. R. Cagnat et alii.
+ I.Myl. = Vid. Blümel.
+ Lafi, U., «Le iscrizioni relative all’introduzione nel 9 a.C. del nuovo calendario della 
+provincia d’Asia», Studi Classici e Orientali, 16, 1967, pp. 5-98.
+ Martin, P. M., L’idée de royauté à Rome, II, Adosa, Clermont-Ferrand, 1994.
+ McCabe, D. F., Priene Inscriptions. Texts and List («The Princeton Project on the In
+scriptions of Anatolia»), The Institute for Advanced Study, Princeton, 1987 (Packard 
+Humanities Institute CD #6, 1991).
+ McCabe, D. F., The Princeton Project on the Inscriptions of Anatolia, The Institute for 
+Advanced Study, Princeton, 1991.
+ Molnar, M. R., The Star of Bethlehem, Rutgers University Press, New Brunswick (New 
+Jersey)/London, 2000.
+ Montero Herrero, S., Augusto y las aves. Las aves en la Roma del Principado: prodigio, 
+exhibición y consumo, Universidad de Barcelona, Barcelona, 2006.
+ Newton, C. T., A History of Discoveries at Halicarnassus, Cnidus and Branchidae, II, 
+Day & Son, London, 1863.
+ OGIS = Dittenberger, W., Orientis graeci inscriptiones selectae, S. Hirzel, Leipzig, 1903
+1905 (repr. Hildesheim, 1986) (2 vols.).
+ Petersen, E. y Luschan, F. von, Reisen im südwestlichen Kleinasien. Vol. II, Reisen in 
+Lykien, Milyas und Kibyratis, Carl Gerold’s Sohn, Viena, 1889.
+ Price, S. R. F., Ritual and Power, Cambridge University Press, Cambridge, 1984.
+ 173
+Sabino Perea Yébenes
+ Encomios de Augusto en Priene, Halikarnassos y Myra
+ Rosen, K., «Jesu Geburtsdatum, der Census des Quirinus und eine judische Steuerer
+klärung aus dem Jahr 127 n. Chr.», Jahrbuch für Antike und Christentum, 38, 1995, 
+pp. 5-15.
+ Ross Taylor, L., The Divinity of the Roman Emperor, American Philological Association, 
+Middletown (Conn.), 1931.
+ Sartre, M., El Oriente romano. Provincias y sociedades provinciales del Mediterráneo 
+oriental, de Augusto a los Severos (31 a.C.-235 d.C.), Akal, Madrid, 1994.
+ Schuler, Chr., «Augustus, Gott und Herr über Land und Meer. Eine neue Inschrift aus 
+Tyberissos im Kontext der spathellenistischen Herrscherverehrung», Chiron, 37, 
+2007, pp. 383-403.
+ Schürer, E., Historia del pueblo judío en tiempos de Jesús, I (rev. por G. Vermes y F. 
+Millar), Cristiandad, Madrid 1985.
+ SEG = Supplementum Epigraphicum Graecum, 1923ss.
+ Scott, K., «Emperor Worship in Ovid», Transactions and Proceedings of the American 
+Philological Asociation, 61, 1930, pp. 43-69.
+ Sherk, R. K., Roman Documents from the Greek East. Senatus Consulta and Epistulae 
+to the Age of Augustus, John Hopkins University Press, Baltimore, 1969.―, Rome and the Greek East to the Death of Augustus, Cambridge University Press, 
+Cambridge, 1984.
+ Syme, R., Augustan Aristocracy, Oxford University Press, Oxford, 1989.
+ Vogliano, A., Epicuri et Epicureorum scripta in Herculanensibus papyris servata, Weid
+mann, Berlin, 1928.
+ Winstrand, E., Felicitas Imperatoria, Acta Universitatis Gothoburgensis, Göteborg, 1987.
