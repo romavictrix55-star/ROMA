@@ -89,71 +89,50 @@ const curiosities = [
     "César fue secuestrado por piratas en su juventud. Durante su cautiverio, bromeó con ellos diciendo que los crucificaría, y cumplió su promesa tras ser liberado.",
     "Fue un escritor talentoso. Sus obras más conocidas son <i>Commentarii de Bello Gallico</i> (Comentarios sobre la Guerra de las Galias) y <i>Commentarii de Bello Civili</i> (Comentarios sobre la Guerra Civil).",
     "El mes de julio (July) lleva su nombre en su honor, ya que nació en ese mes.",
-    "Se le atribuye la reforma del calendario romano, creando el calendario juliano, que fue utilizado hasta la introducción del calendario gregoriano en 1582."
+    "Se le atribuye la reforma del calendario romano, creando el calendario juliano, que fue utilizado hasta la introducción del calendario gregoriano en 1582.",
+    "Los ojos de Octavio (Augusto) eran claros y brillantes e incluso quería que todo el mundo creyese que poseían como una especie de fuerza divina.",
+    "Antes de su nacimiento, se decía que la madre de Augusto había soñado que el fruto de su vientre era llevado al cielo y se extendió por toda la tierra.",
+    "Un astrólogo predijo al padre de Augusto el día de su nacimiento que su hijo gobernaría el mundo.",
+    "Un águila le arrebató un trozo de pan de las manos a un joven Octavio y luego se lo devolvió.",
+    "Cicerón soñó que un niño se deslizaba del cielo al Capitolio por unas cadenas de oro y recibía un látigo de Zeus, y luego encontró a Octavio.",
+    "El signo de Capricornio tuvo gran importancia para Augusto, coincidiendo con su concepción y la hora de nacimiento de Rómulo."
 ];
 
 const inscriptions = [
     {
         title: "Inscripción de Myra (Asia Menor)",
         snippet: "Al dios Augusto, hijo del dios César, imperator de la tierra y del mar, benefactor y salvador de absolutamente todo el mundo...",
-        full_text: `Θεὸν Σεβαστὸν θεοῦ υἱο[ν]
-Καίσαρα αὐτοκράτορα γῆς
-καὶ θαλάσης, τὸν εὐεργέτη[ν]
-καὶ σωτῆρα τοῦ σύνπαντο[ς]
-κόσμου Μυρέων ὁ δῆμος.`,
-        translation: `Al dios Augusto, hijo del dios
-César, imperator de la tierra
-y del mar, benefactor
-y salvador de absolutamente todo
-el mundo, el pueblo de Myra.`, 
         link_to_full_text: "inscriptions/myra_inscription.html"
     },
     {
         title: "Juramento de Ovidio",
         snippet: "Juro por el mar, por las tierras, por las divinidades de los tres mundos, por ti, dios protector y visible...",
-        full_text: `Juro por el mar, por las tierras, por las divinidades de los tres mundos40, por ti, dios
-protector y visible (per mare, per terras, per tertia numina iuro, per te praesentem
-conspicuumque deum), que mi ánimo ha sido siempre favorable a ti, el más grande de
-los hombres, y que con mi mente, que es con lo único que pude, fui siempre tuyo. Yo
-he deseado que tu ingreso en los astros celestes fuera tardío y formé una mínima parte
-de la muchedumbre que hacía esta misma súplica; por ti ofrecí piadosamente incienso
-y, formando un todo con los demás, yo mismo también secundé los votos públicos con
-los míos.`, 
-        translation: `I swear by the sea, by the lands, by the divinities of the three worlds, by you, protecting and visible god (per mare, per terras, per tertia numina iuro, per te praesentem conspicuumque deum), that my spirit has always been favorable to you, the greatest of men, and that with my mind, which is all I could, I was always yours. I wished that your entry into the celestial stars would be late and I formed a minimal part of the multitude that made this same supplication; for you I piously offered incense and, forming a whole with the others, I myself also seconded the public vows with mine.`, 
         link_to_full_text: "inscriptions/ovid_oath.html"
     },
     {
         title: "Juramento de Lealtad a César Augusto",
         snippet: "Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por el mismo Augusto, que durante toda mi vida seré leal a César Augusto...",
-        full_text: `Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por
-el mismo Augusto, que durante toda mi vida seré leal a César Augusto, a sus hijos y
-descendientes de palabra, de obra y de sentimiento, porque consideraré mis amigos a los
-que él considere amigos, y enemigos míos a los que él considere enemigos; y que por su
-causa no ahorraré ni mi integridad corporal ni mi vida ni mi fortuna ni mis hijos, sino que,
-para cumplir las obligaciones sobre ellos recaídas, asumiré sobre mí cualquier peligro; y
-que si yo advirtiera u oyera que contra él se dice, planea o hace algo, lo denunciaré y me
-convertiré en enemigo del que tal dice, planea o hace; y que a aquellos que se consideren
-enemigos suyos los perseguiré y castigaré por tierra y mar con armas y espada. Y si yo
-hago algo que vaya contra este juramento o no esté de acuerdo con las obligaciones que
-de él derivan, pido la ruina y la aniquilación plena para mi persona, calamidad para mi
-integridad corporal y la de toda mi familia hasta el día de mi muerte y la de mis hijos,
-y que ni el mar ni la tierra acojan los cuerpos de los míos ni de mis descendientes ni les
-den sus frutos.`, 
-        translation: `I swear by Zeus, by the Earth, by the Sun, by all the gods and goddesses and also by
-Augustus himself, that throughout my life I will be loyal to Caesar Augustus, to his children and
-descendants in word, deed and feeling, because I will consider my friends those
-whom he considers friends, and my enemies those whom he considers enemies; and that for his
-sake I will spare neither my bodily integrity nor my life nor my fortune nor my children, but that,
-to fulfill the obligations incumbent upon them, I will assume any danger; and
-that if I should notice or hear that anything is said, planned or done against him, I will denounce it and I will
-become an enemy of him who says, plans or does such a thing; and that those who consider themselves
-his enemies I will pursue and punish by land and sea with arms and sword. And if I
-do anything that goes against this oath or is not in accordance with the obligations that
-derive from it, I ask for the ruin and complete annihilation for my person, calamity for my
-bodily integrity and that of my entire family until the day of my death and the of my children,
-and that neither the sea nor the earth receive the bodies of mine nor of my descendants nor give them
-their fruits.`, 
         link_to_full_text: "inscriptions/loyalty_oath.html"
+    },
+    {
+        title: "Inscripción de Priene",
+        snippet: "Dado que la Providencia divina que rige nuestras vidas... ha ejecutado un plan perfecto para la vida al enviarnos a Augusto...",
+        link_to_full_text: "inscriptions/priene_inscription.html"
+    },
+    {
+        title: "Inscripción de Halicarnaso",
+        snippet: "La naturaleza eterna e inmortal del universo ha perfeccionado sus inmensos beneficios a la humanidad otorgándonos un beneficio supremo para nuestra felicidad y bienestar: César Augusto...",
+        link_to_full_text: "inscriptions/halicarnassus_inscription.html"
+    },
+    {
+        title: "Inscripción de Fanagoria",
+        snippet: "Al emperador César, dios, hijo de dios, Augusto, su salvador y benefactor, la reina Dinamis, amiga de Roma.",
+        link_to_full_text: "inscriptions/fanagoria_inscription.html"
+    },
+    {
+        title: "Inscripción de Beyruth",
+        snippet: "Q. Emilio Secundo... realizó el censo por orden de Quirino en la ciudad de Apamea, de 117.000 ciudadanos...",
+        link_to_full_text: "inscriptions/beyruth_inscription.html"
     }
 ];
 
