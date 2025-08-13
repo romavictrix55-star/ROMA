@@ -1,0 +1,189 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #0a0a0a; /* Deep dark background */
+    color: #e0e0e0; /* Light grey for general text */
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Typography */
+h1, h2 {
+    font-family: 'Cinzel', serif;
+    color: #B22222; /* Roman Red for headings */
+    text-shadow: 0 0 10px rgba(178, 34, 34, 0.6);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 2.2em;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(178, 34, 34, 0.3);
+    padding-bottom: 10px;
+}
+
+/* Header - Hero Section */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://via.placeholder.com/1500x500?text=Roman+Architecture+Background') no-repeat center center/cover; /* Placeholder image */
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 3px solid #B22222;
+    box-shadow: 0 5px 20px rgba(178, 34, 34, 0.4);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
+
+.hero .subtitle {
+    font-size: 1.5em;
+    font-style: italic;
+    color: #c0c0c0;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #1a1a1a;
+    padding: 15px 0;
+    border-bottom: 1px solid #333;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 20px;
+}
+
+.navbar a {
+    color: #B22222;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 5px 0;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 8px #B22222;
+}
+
+/* Section Cards */
+.section-card {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 15px rgba(178, 34, 34, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 25px rgba(178, 34, 34, 0.4);
+}
+
+.logo {
+    height: 80px; /* Adjust as needed */
+    margin-bottom: 20px;
+}
+
+.section-card p {
+    margin-bottom: 15px;
+    color: #c0c0c0;
+}
+
+.read-more-btn {
+    display: inline-block;
+    background-color: #B22222;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.read-more-btn:hover {
+    background-color: #ffffff;
+    color: #B22222;
+    box-shadow: 0 0 15px #B22222;
+}
+
+/* Footer */
+.footer {
+    background-color: #1a1a1a;
+    color: #888;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-top: 1px solid #333;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    h2 {
+        font-size: 1.8em;
+    }
+
+    .hero {
+        padding: 80px 20px;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    .hero .subtitle {
+        font-size: 1.2em;
+    }
+
+    .section-card {
+        padding: 20px;
+    }
+}
