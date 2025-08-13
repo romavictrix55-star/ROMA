@@ -102,36 +102,43 @@ const inscriptions = [
     {
         title: "Inscripción de Myra (Asia Menor)",
         snippet: "Al dios Augusto, hijo del dios César, imperator de la tierra y del mar, benefactor y salvador de absolutamente todo el mundo...",
+        explanation: "Esta inscripción, dedicada a Augusto, es un testimonio de la divinización de los emperadores y la continuidad del legado de Julio César, al referirse a Augusto como \"hijo del dios César\".",
         link_to_full_text: "inscriptions/myra_inscription.html"
     },
     {
         title: "Juramento de Ovidio",
         snippet: "Juro por el mar, por las tierras, por las divinidades de los tres mundos, por ti, dios protector y visible...",
+        explanation: "Este juramento del poeta Ovidio, dirigido al emperador, muestra una profunda devoción y sumisión, ofreciendo respeto y lealtad incondicional.",
         link_to_full_text: "inscriptions/ovid_oath.html"
     },
     {
         title: "Juramento de Lealtad a César Augusto",
         snippet: "Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por el mismo Augusto, que durante toda mi vida seré leal a César Augusto...",
+        explanation: "Este juramento, encontrado en Gangra, es un ejemplo de la devoción pública y privada hacia el emperador, prometiendo lealtad absoluta y persecución de sus enemigos.",
         link_to_full_text: "inscriptions/loyalty_oath.html"
     },
     {
         title: "Inscripción de Priene",
         snippet: "Dado que la Providencia divina que rige nuestras vidas... ha ejecutado un plan perfecto para la vida al enviarnos a Augusto...",
+        explanation: "Este decreto de la Asamblea Provincial de Asia, del año 9 a.C., elogia a Augusto y asocia los beneficios de la paz romana con su existencia, incluso proponiendo un nuevo calendario en su honor.",
         link_to_full_text: "inscriptions/priene_inscription.html"
     },
     {
         title: "Inscripción de Halicarnaso",
         snippet: "La naturaleza eterna e inmortal del universo ha perfeccionado sus inmensos beneficios a la humanidad otorgándonos un beneficio supremo para nuestra felicidad y bienestar: César Augusto...",
+        explanation: "Esta inscripción del año 2 a.C. es un elogio a Augusto, destacando su papel como salvador y benefactor, y la paz y prosperidad que trajo al mundo.",
         link_to_full_text: "inscriptions/halicarnassus_inscription.html"
     },
     {
         title: "Inscripción de Fanagoria",
         snippet: "Al emperador César, dios, hijo de dios, Augusto, su salvador y benefactor, la reina Dinamis, amiga de Roma.",
+        explanation: "Esta inscripción de Fanagoria, en el Bósforo, muestra a la reina Dinamis honrando a Augusto, reflejando la divinización de los emperadores en Oriente.",
         link_to_full_text: "inscriptions/fanagoria_inscription.html"
     },
     {
         title: "Inscripción de Beyruth",
         snippet: "Q. Emilio Secundo... realizó el censo por orden de Quirino en la ciudad de Apamea, de 117.000 ciudadanos...",
+        explanation: "Esta inscripción latina de Beyruth menciona a Q. Aemilius Secundus y su papel en el censo de Apamea por orden de Quirino, un evento histórico importante en la administración romana.",
         link_to_full_text: "inscriptions/beyruth_inscription.html"
     }
 ];
@@ -168,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="sidebar-card">
                 <h3>Inscripción</h3>
                 <h4>${randomInscription.title}</h4>
-                <p>${randomInscription.snippet}</p>
+                <p>${randomInscription.explanation}</p>
                 <p><a href="${randomInscription.link_to_full_text}" class="read-more-btn">Leer más</a></p>
             </div>
         `;
