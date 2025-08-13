@@ -1,4 +1,3 @@
-
 const quotes = [
     { text: "Veni, vidi, vici.", author: "Julio César" },
     { text: "Alea iacta est.", author: "Julio César" },
@@ -96,7 +95,8 @@ const curiosities = [
 const inscriptions = [
     {
         title: "Inscripción de Myra (Asia Menor)",
-        text: `Θεὸν Σεβαστὸν θεοῦ υἱο[ν]
+        snippet: "Al dios Augusto, hijo del dios César, imperator de la tierra y del mar, benefactor y salvador de absolutamente todo el mundo...",
+        full_text: `Θεὸν Σεβαστὸν θεοῦ υἱο[ν]
 Καίσαρα αὐτοκράτορα γῆς
 καὶ θαλάσης, τὸν εὐεργέτη[ν]
 καὶ σωτῆρα τοῦ σύνπαντο[ς]
@@ -105,7 +105,55 @@ const inscriptions = [
 César, imperator de la tierra
 y del mar, benefactor
 y salvador de absolutamente todo
-el mundo, el pueblo de Myra.`
+el mundo, el pueblo de Myra.`, 
+        link_to_full_text: "inscriptions/myra_inscription.html"
+    },
+    {
+        title: "Juramento de Ovidio",
+        snippet: "Juro por el mar, por las tierras, por las divinidades de los tres mundos, por ti, dios protector y visible...",
+        full_text: `Juro por el mar, por las tierras, por las divinidades de los tres mundos40, por ti, dios
+protector y visible (per mare, per terras, per tertia numina iuro, per te praesentem
+conspicuumque deum), que mi ánimo ha sido siempre favorable a ti, el más grande de
+los hombres, y que con mi mente, que es con lo único que pude, fui siempre tuyo. Yo
+he deseado que tu ingreso en los astros celestes fuera tardío y formé una mínima parte
+de la muchedumbre que hacía esta misma súplica; por ti ofrecí piadosamente incienso
+y, formando un todo con los demás, yo mismo también secundé los votos públicos con
+los míos.`, 
+        translation: `I swear by the sea, by the lands, by the divinities of the three worlds, by you, protecting and visible god (per mare, per terras, per tertia numina iuro, per te praesentem conspicuumque deum), that my spirit has always been favorable to you, the greatest of men, and that with my mind, which is all I could, I was always yours. I wished that your entry into the celestial stars would be late and I formed a minimal part of the multitude that made this same supplication; for you I piously offered incense and, forming a whole with the others, I myself also seconded the public vows with mine.`, 
+        link_to_full_text: "inscriptions/ovid_oath.html"
+    },
+    {
+        title: "Juramento de Lealtad a César Augusto",
+        snippet: "Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por el mismo Augusto, que durante toda mi vida seré leal a César Augusto...",
+        full_text: `Juro por Zeus, por la Tierra, por el Sol, por todos los dioses y las diosas y también por
+el mismo Augusto, que durante toda mi vida seré leal a César Augusto, a sus hijos y
+descendientes de palabra, de obra y de sentimiento, porque consideraré mis amigos a los
+que él considere amigos, y enemigos míos a los que él considere enemigos; y que por su
+causa no ahorraré ni mi integridad corporal ni mi vida ni mi fortuna ni mis hijos, sino que,
+para cumplir las obligaciones sobre ellos recaídas, asumiré sobre mí cualquier peligro; y
+que si yo advirtiera u oyera que contra él se dice, planea o hace algo, lo denunciaré y me
+convertiré en enemigo del que tal dice, planea o hace; y que a aquellos que se consideren
+enemigos suyos los perseguiré y castigaré por tierra y mar con armas y espada. Y si yo
+hago algo que vaya contra este juramento o no esté de acuerdo con las obligaciones que
+de él derivan, pido la ruina y la aniquilación plena para mi persona, calamidad para mi
+integridad corporal y la de toda mi familia hasta el día de mi muerte y la de mis hijos,
+y que ni el mar ni la tierra acojan los cuerpos de los míos ni de mis descendientes ni les
+den sus frutos.`, 
+        translation: `I swear by Zeus, by the Earth, by the Sun, by all the gods and goddesses and also by
+Augustus himself, that throughout my life I will be loyal to Caesar Augustus, to his children and
+descendants in word, deed and feeling, because I will consider my friends those
+whom he considers friends, and my enemies those whom he considers enemies; and that for his
+sake I will spare neither my bodily integrity nor my life nor my fortune nor my children, but that,
+to fulfill the obligations incumbent upon them, I will assume any danger; and
+that if I should notice or hear that anything is said, planned or done against him, I will denounce it and I will
+become an enemy of him who says, plans or does such a thing; and that those who consider themselves
+his enemies I will pursue and punish by land and sea with arms and sword. And if I
+do anything that goes against this oath or is not in accordance with the obligations that
+derive from it, I ask for the ruin and complete annihilation for my person, calamity for my
+bodily integrity and that of my entire family until the day of my death and the of my children,
+and that neither the sea nor the earth receive the bodies of mine nor of my descendants nor give them
+their fruits.`, 
+        link_to_full_text: "inscriptions/loyalty_oath.html"
     }
 ];
 
@@ -141,10 +189,8 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="sidebar-card">
                 <h3>Inscripción</h3>
                 <h4>${randomInscription.title}</h4>
-                <p><b>Texto Griego:</b></p>
-                <pre><code>${randomInscription.text}</code></pre>
-                <p><b>Traducción:</b></p>
-                <p>${randomInscription.translation}</p>
+                <p>${randomInscription.snippet}</p>
+                <p><a href="${randomInscription.link_to_full_text}" class="read-more-btn">Leer más</a></p>
             </div>
         `;
     }
