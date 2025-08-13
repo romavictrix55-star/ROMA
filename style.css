@@ -128,18 +128,27 @@ h2 {
 
 /* Hero for article pages */
 .hero-small {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://via.placeholder.com/800x200?text=Roman+Background') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('logo.png') no-repeat center center/cover; /* Use logo.png as background */
     color: white;
     padding: 60px 20px;
     text-align: center;
     border-bottom: 3px solid #B22222;
     box-shadow: 0 3px 15px rgba(178, 34, 34, 0.4);
+    min-height: 200px; /* Ensure enough height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero-small h1 {
     font-size: 2.8em; /* Smaller title for article pages */
     margin-bottom: 0;
+    color: #B22222; /* Roman Red for headings */
+    background-color: rgba(0, 0, 0, 0.3); /* Overlay for text readability */
+    padding: 10px 20px;
+    border-radius: 5px;
 }
+
 
 
 .section-card p {
